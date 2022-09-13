@@ -10,9 +10,9 @@
 Atividades desenvolvidas no âmbito da disciplina **Processamento de Dados III - Pascal** do curso Técnico em Informática do Instituto São Francisco - Santa Família.
 
 * **Atividade 1:**  
-  **Programa:** [ativ_01](src/ativ_01.pas)
+  **Programa:** [ativ_01](src/ativ_01.pas)  
   **Objetivo:** Colocar em ordem decrescente 3 números lidos do teclado.
 
 * **Atividade 2:**  
-  **Programa:** [ativ_02](src/ativ_02.pas)
+  **Programa:** [ativ_02](src/ativ_02.pas)  
   **Objetivo:** Colocar em ordem crescente nomes lidos do teclado.  
