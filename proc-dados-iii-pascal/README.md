@@ -21,3 +21,7 @@ Atividades desenvolvidas no âmbito da disciplina **Processamento de Dados III -
   **Programa:** [ativ_03](src/ativ_03.pas)  
   **Objetivo:** Exercício de escrita em disco.
   
+* **Atividade 4:**  
+  **Programa:** [ativ_04](src/ativ_04.pas)  
+  **Objetivo:** Calcular a área de um círculo.
+  
