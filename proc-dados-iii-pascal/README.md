@@ -16,3 +16,8 @@ Atividades desenvolvidas no âmbito da disciplina **Processamento de Dados III -
 * **Atividade 2:**  
   **Programa:** [ativ_02](src/ativ_02.pas)  
   **Objetivo:** Colocar em ordem crescente nomes lidos do teclado.  
+
+* **Atividade 3:**  
+  **Programa:** [ativ_03](src/ativ_03.pas)  
+  **Objetivo:** Exercício de escrita em disco.
+  
