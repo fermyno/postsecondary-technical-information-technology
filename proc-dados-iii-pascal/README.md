@@ -30,7 +30,7 @@ Atividades desenvolvidas no âmbito da disciplina **Processamento de Dados III -
   **Objetivo:** Converter letras para maiusculas.
 
 * **Atividade 6:**  
-  **Programa:** [ativ_06](src/ativ_06.pas)
+  **Programa:** [ativ_06](src/ativ_06.pas)  
   **Objetivo:** Converter letra para minusculas.
 
 * **Atividade 7:**
