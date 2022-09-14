@@ -26,7 +26,7 @@ Atividades desenvolvidas no âmbito da disciplina **Processamento de Dados III -
   **Objetivo:** Calcular a área de um círculo.
   
 * **Atividade 5:**  
-  **Programa:** [ativ_05](src/ativ_05.pas)
+  **Programa:** [ativ_05](src/ativ_05.pas)  
   **Objetivo:** Converter letras para maiusculas.
 
 * **Atividade 6:**
