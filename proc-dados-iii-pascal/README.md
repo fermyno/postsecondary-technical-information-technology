@@ -33,6 +33,6 @@ Atividades desenvolvidas no âmbito da disciplina **Processamento de Dados III -
   **Programa:** [ativ_06](src/ativ_06.pas)  
   **Objetivo:** Converter letra para minusculas.
 
-* **Atividade 7:**
+* **Atividade 7:**  
   **Programa:** [ativ_07](src/ativ_07.pas)
   **Objetivo:** Ler notas de alunos e listar notas menores que 6.
