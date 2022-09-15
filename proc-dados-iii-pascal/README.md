@@ -36,3 +36,12 @@ Atividades desenvolvidas no âmbito da disciplina **Processamento de Dados III -
 * **Atividade 7:**  
   **Programa:** [ativ_07](src/ativ_07.pas)  
   **Objetivo:** Ler notas de alunos e listar notas menores que 6.
+
+* **Atividade 8:**
+  **Programa:** [ativ_08](src/ativ_08.pas)
+  **Objetivo:** Ler dados e ordenar pelo nome (máximo 10 pessoas).
+
+* **Atividade 9:**
+  **Programa:** [ativ_09](src/ativ_09.pas)
+  **Objetivo:** Exemplo de uso de funções.
+  
