@@ -42,6 +42,6 @@ Atividades desenvolvidas no âmbito da disciplina **Processamento de Dados III -
   **Objetivo:** Ler dados e ordenar pelo nome (máximo 10 pessoas).
 
 * **Atividade 9:**  
-  **Programa:** [ativ_09](src/ativ_09.pas)
+  **Programa:** [ativ_09](src/ativ_09.pas)  
   **Objetivo:** Exemplo de uso de funções.
   
