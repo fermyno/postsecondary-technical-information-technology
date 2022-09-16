@@ -10,44 +10,44 @@
 Atividades desenvolvidas no âmbito da disciplina **Processamento de Dados III - Pascal** do curso Técnico em Informática do Instituto São Francisco - Santa Família.
 
 * **Atividade 1:**  
-  **Programa:** [ativ_01](src/ativ_01.pas)  
+  **Programa:** [ativ_01.pas](src/ativ_01.pas)  
   **Objetivo:** Colocar em ordem decrescente 3 números lidos do teclado.
 
 * **Atividade 2:**  
-  **Programa:** [ativ_02](src/ativ_02.pas)  
+  **Programa:** [ativ_02.pas](src/ativ_02.pas)  
   **Objetivo:** Colocar em ordem crescente nomes lidos do teclado.  
 
 * **Atividade 3:**  
-  **Programa:** [ativ_03](src/ativ_03.pas)  
+  **Programa:** [ativ_03.pas](src/ativ_03.pas)  
   **Objetivo:** Exercício de escrita em disco.
   
 * **Atividade 4:**  
-  **Programa:** [ativ_04](src/ativ_04.pas)  
+  **Programa:** [ativ_04.pas](src/ativ_04.pas)  
   **Objetivo:** Calcular a área de um círculo.
   
 * **Atividade 5:**  
-  **Programa:** [ativ_05](src/ativ_05.pas)  
+  **Programa:** [ativ_05.pas](src/ativ_05.pas)  
   **Objetivo:** Converter letras para maiusculas.
 
 * **Atividade 6:**  
-  **Programa:** [ativ_06](src/ativ_06.pas)  
+  **Programa:** [ativ_06.pas](src/ativ_06.pas)  
   **Objetivo:** Converter letra para minusculas.
 
 * **Atividade 7:**  
-  **Programa:** [ativ_07](src/ativ_07.pas)  
+  **Programa:** [ativ_07.pas](src/ativ_07.pas)  
   **Objetivo:** Ler notas de alunos e listar notas menores que 6.
 
 * **Atividade 8:**  
-  **Programa:** [ativ_08](src/ativ_08.pas)  
+  **Programa:** [ativ_08.pas](src/ativ_08.pas)  
   **Objetivo:** Ler dados e ordenar pelo nome (máximo 10 pessoas).
 
 * **Atividade 9:**  
-  **Programa:** [ativ_09](src/ativ_09.pas)  
+  **Programa:** [ativ_09.pas](src/ativ_09.pas)  
   **Objetivo:** Exemplo de uso de funções.
   
 ## Atividade Final
 
-**Programa:** [atvfinal](src/ativfinal.pas)  
+**Programa:** [atvfinal.pas](src/ativfinal.pas)  
 **Enunciado:** O aluno deve escrever um programa que apresente as seguintes funcionalidades [Enunciado em PDF](src/atvfinal-instrucoes.pdf):  
 1. O programa deve ser escrito totalmente em Pascal e rodar no compilador Turbo Pascal;
 2. O programa deve fazer uso de procedures;
