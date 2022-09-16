@@ -55,5 +55,5 @@ Atividades desenvolvidas no âmbito da disciplina **Processamento de Dados III -
 4. Deve permitir a inserção de dados de alunos (nome, endereço e código) via teclado e gravá-los no arquivo c:\alunos.txt;
 5. Deve permitir a exibição dos dados do arquivo na tela;
 6. Cada nova gravação de dados no arquivo deve ser adicionada ao final das anteriores; 
-7. O programa deve apresentar um menu que permita selecionar entre: gravar dados, ler dados, ou sair do programa.
-[Ver Enunciado em PDF:](src/atvfinal-instrucoes.pdf)
+7. O programa deve apresentar um menu que permita selecionar entre: gravar dados, ler dados, ou sair do programa.  
+Ver Enunciado em PDF: [atvfinal-instrucoes.pdf](src/atvfinal-instrucoes.pdf)
