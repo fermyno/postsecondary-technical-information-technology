@@ -58,5 +58,6 @@ Atividades desenvolvidas no âmbito da disciplina **Processamento de Dados III -
 6. Cada nova gravação de dados no arquivo deve ser adicionada ao final das anteriores; 
 7. O programa deve apresentar um menu que permita selecionar entre: gravar dados, ler dados, ou sair do programa.  
 <br>
-<br>
 **Ver Enunciado em PDF:** [atvfinal-instrucoes.pdf](src/atvfinal-instrucoes.pdf)
+
+### Capturas de Tela da Atividade Final
