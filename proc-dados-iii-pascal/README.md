@@ -49,7 +49,7 @@ Atividades desenvolvidas no âmbito da disciplina **Processamento de Dados III -
 
 **Programa:** [atvfinal.pas](src/atvfinal.pas)  
 <br>
-**Enunciado:** O aluno deve escrever um programa que apresente as seguintes funcionalidades:  
+**Enunciado:** O aluno deve escrever um programa que apresente as funcionalidades listadas abaixo.  
 **Ver Enunciado em PDF:** [atvfinal-instrucoes.pdf](src/atvfinal-instrucoes.pdf)
 <br>
 1. O programa deve ser escrito totalmente em Pascal e rodar no compilador Turbo Pascal;
