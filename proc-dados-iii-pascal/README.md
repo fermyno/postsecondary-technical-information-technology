@@ -62,3 +62,5 @@ Atividades desenvolvidas no âmbito da disciplina **Processamento de Dados III -
 
 
 ### Capturas de Tela da Atividade Final
+
+![Screenshot Slash](images/screenshot-01.png)  
