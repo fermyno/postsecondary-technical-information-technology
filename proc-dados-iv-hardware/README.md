@@ -10,4 +10,5 @@ Atividades desenvolvidas no âmbito da disciplina **Processamento de Dados IV - 
 # Atividade Final:
 
 ## Enunciado:
+
 Escreva um programa em qualquer linguagem que retorne informacoes sobre o hardware do equipamento.
