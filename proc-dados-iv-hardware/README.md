@@ -20,3 +20,5 @@ Desenvolvimento de um shell script com recursos do Zenith para exibir informaç�
 
 ![Execução em linha de comando](images/screenshot-00.png)
 
+![Menu Principal](images/screenshot-01.png)
+
