@@ -16,5 +16,7 @@ Escreva um programa em qualquer linguagem que retorne informacoes sobre o hardwa
 ### Solução Apresentada
 Desenvolvimento de um shell script com recursos do Zenith para exibir informações do hardware em modo gráfico no sistema operacional Linux.
 
-### Capturas de Tela da Atividade Final
+### Capturas de Tela
+
+![Execução em linha de comando](images/screenshot-00.png)
 
