@@ -26,3 +26,5 @@ Desenvolvimento de um shell script com recursos do Zenith para exibir informaç�
 
 ![Consulta de Utilização de Espaço em Disco](images/screenshot-03.png)
 
+![Consulta de Hardware](images/screenshot-04.png)
+
