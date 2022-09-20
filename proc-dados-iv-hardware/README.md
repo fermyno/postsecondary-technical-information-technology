@@ -22,3 +22,5 @@ Desenvolvimento de um shell script com recursos do Zenith para exibir informaç�
 
 ![Menu Principal](images/screenshot-01.png)
 
+![Consulta de Memória RAM](images/screenshot-02.png)
+
