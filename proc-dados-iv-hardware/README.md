@@ -28,3 +28,5 @@ Desenvolvimento de um shell script com recursos do Zenith para exibir informaç�
 
 ![Consulta de Hardware](images/screenshot-04.png)
 
+![Consulta de Informações do Sistema](images/screenshot-05.png)
+
