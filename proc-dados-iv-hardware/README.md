@@ -12,3 +12,8 @@ Atividades desenvolvidas no âmbito da disciplina **Processamento de Dados IV - 
 ### Enunciado:
 
 Escreva um programa em qualquer linguagem que retorne informacoes sobre o hardware do equipamento.
+
+### Solução Apresentada:
+Desenvolvimento de um shell script com recursos do Zenith para exibir informações do hardware em modo gráfico no sistema operacional Linux.
+
+### Capturas de Tela da Atividade Final
