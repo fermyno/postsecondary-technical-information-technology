@@ -27,7 +27,7 @@ Todos os passos necessários para a construção do programa estão relatados de
 ### Código-fonte do programa
 
 O código-fonte do programa está disponível no seginte link:  
-=> ![Passo-a-passo para a construção do programa](src/alunos/).
+=> ![Código-fonte](src/alunos/).
 
 
 ### Captura de Tela da Atividade Final
