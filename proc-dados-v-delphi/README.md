@@ -26,7 +26,5 @@ Todos os passos necessários para a construção do programa estão relatados de
 
 # Capturas de Tela da Atividade Final
 
-![Execução em linha de comando](images/screenshot-00.png)  
-
-![Menu Principal](images/screenshot-01.png)  
+![Captura de Tela](images/screenshot.jpg)  
 
