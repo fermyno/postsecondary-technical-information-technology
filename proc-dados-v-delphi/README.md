@@ -25,3 +25,5 @@ Todos os passos necessários para a construção do programa estão relatados de
 => ![Passo-a-passo para a construção do programa](docs/realizacao-trabalho-final--delphi.pdf).
 
 # Capturas de Tela da Atividade Final
+
+![Execução em linha de comando](images/screenshot-00.png)  
