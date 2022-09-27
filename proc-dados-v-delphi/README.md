@@ -24,6 +24,12 @@ Para a etapa de codificação do programa foi utilizada a IDE Lazarus, devido ao
 Todos os passos necessários para a construção do programa estão relatados detalhadamente no seguinte documento:  
 => ![Passo-a-passo para a construção do programa](docs/realizacao-trabalho-final--delphi.pdf).
 
+### Código-fonte do programa
+
+O código-fonte do programa está disponível no seginte link:  
+=> ![Passo-a-passo para a construção do programa](src/alunos/).
+
+
 ### Captura de Tela da Atividade Final
 
 ![Captura de Tela](images/screenshot.jpg)  
