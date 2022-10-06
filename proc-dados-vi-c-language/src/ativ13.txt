@@ -1,0 +1,11 @@
+Nome:     Jose Manuel Silva         
+Telefone: +51 55 555-5555
+Endereco: Rua do Lar, 1050
+$
+Nome:     Mariana Silva So        
+Telefone: +52 66 666-6666
+Endereco: Av. do Forte, 48
+$
+Nome:     Fermyno Gutierrez       
+Telefone: +53 77 777-7777
+Endereco: Rua do Barco, s/n
