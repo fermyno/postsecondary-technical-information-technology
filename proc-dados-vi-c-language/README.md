@@ -10,4 +10,4 @@
 Atividades desenvolvidas no âmbito da disciplina **Processamento de Dados IV - Linguagem C** do curso Técnico em Informática do Instituto São Francisco - Santa Família.
 
 * **Atividade 1**:
-
+  **Programa**: [ativ01.c](src/ativ01.c)
