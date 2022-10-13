@@ -13,6 +13,6 @@ Atividades desenvolvidas no âmbito da disciplina **Processamento de Dados IV - 
   **Programa**: [ativ01.c](src/ativ01.c)  
   **Objetivo**: Escreva um programa que receba duas strings e retorne o valor.  
   
-* **Atividade 2**:
+* **Atividade 2**:  
   **Programa**: [ativ02.c](src/ativ02.c)
   **Objetivo**: Escreva um programa que leia uma string do teclado (usando o gets()) e remova todos os caracteres 'a' encontrados. Na tela, apresente a quantidades de caracteres retirados da string.
