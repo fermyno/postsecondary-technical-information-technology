@@ -13,3 +13,4 @@ Atividades desenvolvidas no âmbito da disciplina **Processamento de Dados IV - 
   **Programa**: [ativ01.c](src/ativ01.c)  
   **Objetivo**: Escreva um programa que receba duas strings e retorne o valor.  
   
+* **Atividade 2**:
