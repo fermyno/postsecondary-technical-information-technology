@@ -18,5 +18,5 @@ Atividades desenvolvidas no âmbito da disciplina **Processamento de Dados IV - 
   **Objetivo**: Escreva um programa que leia uma string do teclado (usando o gets()) e remova todos os caracteres 'a' encontrados. Na tela, apresente a quantidades de caracteres retirados da string.
 
 * **Atividade 3**:  
-  **Programa**: [ativ03.c](src/ativ03.c)
+  **Programa**: [ativ03.c](src/ativ03.c)  
   **Objetivo**: Escreva um programa utilizando o comando switch que leia uma string (utilize gets()) e substitua todos os espaços e tabulacoes ('\t') por caracteres de nova linha. O loop acaba quando encontrar o caracter de final de linha '\0'.
