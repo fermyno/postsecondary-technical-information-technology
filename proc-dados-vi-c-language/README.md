@@ -22,5 +22,5 @@ Atividades desenvolvidas no âmbito da disciplina **Processamento de Dados IV - 
   **Objetivo**: Escreva um programa utilizando o comando switch que leia uma string (utilize gets) e substitua todos os espaços e tabulacoes ('\t') por caracteres de nova linha. O loop acaba quando encontrar o caracter de final de linha '\0'.
 
 * **Atividade 4**:  
-  **Programa**: [ativ04.c](src/ativ04.c)
+  **Programa**: [ativ04.c](src/ativ04.c)  
   **Objetivo**: Faça um programa que inverta a sequencia de caracteres de uma string. Use o comando for para varrer toda a string até o seu final. Lembre-se de que a string sempre termina com o caracter '\0'.
