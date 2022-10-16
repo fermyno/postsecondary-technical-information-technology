@@ -26,3 +26,5 @@ Atividades desenvolvidas no âmbito da disciplina **Processamento de Dados IV - 
   **Objetivo**: Faça um programa que inverta a sequencia de caracteres de uma string. Use o comando for para varrer toda a string até o seu final. Lembre-se de que a string sempre termina com o caracter '\0'.
 
 * **Atividade 5**:
+  **Programa**: [ativ05.c](src/ativ05.c)
+  
