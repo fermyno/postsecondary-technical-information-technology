@@ -28,4 +28,13 @@ Atividades desenvolvidas no âmbito da disciplina **Processamento de Dados IV - 
 * **Atividade 5**:  
   **Programa**: [ativ05.c](src/ativ05.c)  
   **Objetivo**: Faça um programa de conversão de base numérica. A partir da opção escolhida, o programa deverá pedir o número na base escolhida, ler e apresentar o número na base desejada. Em seguida, o programa deve perguntar ao usuário se ele deseja retornar ao menu principal ou finalizar o programa. O programa deverá apresentar uma tela de entrada com as seguintes opções:  
+  ```
+   < Conversao de base >
+   1: decimal para hexadecimal
+   2: hexadecimal para decimal
+   3: decimal para octal
+   4: octal para decimal
+   5: Encerra
+   Informe sua opcao:
+  ```
   
