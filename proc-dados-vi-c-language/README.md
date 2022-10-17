@@ -39,4 +39,5 @@ Atividades desenvolvidas no âmbito da disciplina **Processamento de Dados IV - 
   ```
 
 * **Atividade 6**:
-
+  **Programa**: [ativ06.c](src/ativ06.c)
+  
