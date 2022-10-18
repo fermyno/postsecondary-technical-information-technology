@@ -42,3 +42,4 @@ Atividades desenvolvidas no âmbito da disciplina **Processamento de Dados IV - 
   **Programa**: [ativ06.c](src/ativ06.c)  
   **Objetivo**: Faça um programa usando enumeração. Crie uma enumeração de meses do ano, e utilize para indexar um vetor de nomes dos meses. Desta forma, apresente os nomes dos meses do ano na tela.  
  
+* **Atividade 7**:
