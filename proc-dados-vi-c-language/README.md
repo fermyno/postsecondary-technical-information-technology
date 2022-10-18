@@ -44,4 +44,5 @@ Atividades desenvolvidas no âmbito da disciplina **Processamento de Dados IV - 
  
 * **Atividade 7**:
   **Programa**: [ativ07.c](src/ativ07.c)
+  **Objetivo**: Escreva um programa que leia nomes pelo teclado e imprima na tela, utilizando as funções puts e gets.
   
