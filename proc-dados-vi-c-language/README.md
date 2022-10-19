@@ -48,5 +48,5 @@ Atividades desenvolvidas no âmbito da disciplina **Processamento de Dados IV - 
   
 * **Atividade 8**:  
   **Programa**: [ativ08.c](src/ativ08.c)  
-  **Objetivo**: Faça um programa que leia uma string do teclado. Em seguida, verifique se a string corresponde a um número. Se sim, calcular o valor que a string representa (inclusive quando for negativo) e apresentá-lo na tela como float. Se não, o número apresentado deverá ser zero. Observações: é obrigatória a utilização de ponteiros para percorrer a string.
+  **Objetivo**: Faça um programa que leia uma string do teclado. Em seguida, verifique se a string corresponde a um número. Se sim, calcular o valor que a string representa (inclusive quando for negativo) e apresentá-lo na tela como float. Se não, o número apresentado deverá ser zero. Observações: é obrigatória a utilização de ponteiros para percorrer a string.  
   
