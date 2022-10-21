@@ -54,3 +54,5 @@ Atividades desenvolvidas no âmbito da disciplina **Processamento de Dados IV - 
   **Objetivo**: Escreva um programa que leia uma matriz pelo teclado e apresente os resultados na tela. A função deve ter o seguinte formato: lermatriz(int *mat)  
 
 * **Atividade 10**:
+  **Programa**: [ativ10.c](src/ativ10.c)
+  
