@@ -54,6 +54,6 @@ Atividades desenvolvidas no âmbito da disciplina **Processamento de Dados IV - 
   **Objetivo**: Escreva um programa que leia uma matriz pelo teclado e apresente os resultados na tela. A função deve ter o seguinte formato: lermatriz(int *mat)  
 
 * **Atividade 10**:  
-  **Programa**: [ativ10.c](src/ativ10.c)
+  **Programa**: [ativ10.c](src/ativ10.c)  
   **Objetivo**: Escreva um programa que faça uso dos parametros argc e argv. O programa deverá receber a partir da linha de comando o dia, mês e ano correntes, e imprimir a data em formato apropriado. Atenção: o programa deve ser executado no console de comandos, de modo a permitir a passagem dos argumentos. Ex.: ativ10.exe 30 10 22
   
