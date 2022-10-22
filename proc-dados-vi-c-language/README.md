@@ -58,8 +58,8 @@ Atividades desenvolvidas no âmbito da disciplina **Processamento de Dados IV - 
   **Objetivo**: Escreva um programa que faça uso dos parametros argc e argv. O programa deverá receber a partir da linha de comando o dia, mês e ano correntes, e imprimir a data em formato apropriado. Atenção: o programa deve ser executado no console de comandos, de modo a permitir a passagem dos argumentos.  
   Exemplo: **ativ10.exe 30 10 22**  
 
-* **Atividade 11**:
-  **Programa**: [ativ11.c](src/ativ11.c)
+* **Atividade 11**:  
+  **Programa**: [ativ11.c](src/ativ11.c)  
   **Objetivo**: Faça um programa que utilize os argumentos argv e argc. O programa deverá receber dois numeros e apresentar a soma deles. Para isso, é preciso uma função que transforme string em inteiro, pois o tipo de argv é char. Atenção: o programa deve ser executado no console de comandos, de modo a permitir a passagem dos argumentos. Ex.: ativ11.exe 14 18
   
   
