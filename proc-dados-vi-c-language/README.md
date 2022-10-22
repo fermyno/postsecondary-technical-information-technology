@@ -60,4 +60,6 @@ Atividades desenvolvidas no âmbito da disciplina **Processamento de Dados IV - 
 
 * **Atividade 11**:
   **Programa**: [ativ11.c](src/ativ11.c)
+  **Objetivo**: Faça um programa que utilize os argumentos argv e argc. O programa deverá receber dois numeros e apresentar a soma deles. Para isso, é preciso uma função que transforme string em inteiro, pois o tipo de argv é char. Atenção: o programa deve ser executado no console de comandos, de modo a permitir a passagem dos argumentos. Ex.: ativ11.exe 14 18
+  
   
