@@ -64,6 +64,6 @@ Atividades desenvolvidas no âmbito da disciplina **Processamento de Dados IV - 
   Exemplo: **ativ11.exe 14 18**
   
 * **Atividade 12**:  
-  **Programa**: [ativ12.c](src/ativ12.c)
-  **Objetivo**: Um problema tradicional de recursividade consiste em encontrar o termo da sequência de Fibonacci. As séries de Fibonacci são de grande importância matemática. A lei básica define que, a partir do terceiro termo, todos os termos são a soma dos dois últimos. Faça um programa que encontre o termo da sequência de Fibonacci. A seguir são apresentados os primeiros termos da sequência.
+  **Programa**: [ativ12.c](src/ativ12.c)  
+  **Objetivo**: Um problema tradicional de recursividade consiste em encontrar o termo da sequência de Fibonacci. As séries de Fibonacci são de grande importância matemática. A lei básica define que, a partir do terceiro termo, todos os termos são a soma dos dois últimos. Faça um programa que encontre o termo da sequência de Fibonacci. A seguir são apresentados os primeiros termos da sequência.  
   
