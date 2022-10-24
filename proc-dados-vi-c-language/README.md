@@ -66,4 +66,11 @@ Atividades desenvolvidas no âmbito da disciplina **Processamento de Dados IV - 
 * **Atividade 12**:  
   **Programa**: [ativ12.c](src/ativ12.c)  
   **Objetivo**: Um problema tradicional de recursividade consiste em encontrar o termo da sequência de Fibonacci. As séries de Fibonacci são de grande importância matemática. A lei básica define que, a partir do terceiro termo, todos os termos são a soma dos dois últimos. Faça um programa que encontre o termo da sequência de Fibonacci. A seguir são apresentados os primeiros termos da sequência.  
-  
+  ```
+   F = {1, 1, 2, 3, 5, 8, 13, 21, 34...}
+   O primeiro e o segundo termos são 1.
+   O terceiro termo é 2 (1+1).
+   O quarto termo é 3 (1+2).
+   O próximo termo e 5 (3+2).
+   E assim sucessivamente.
+  ```  
