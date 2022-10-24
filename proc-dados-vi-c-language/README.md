@@ -64,3 +64,5 @@ Atividades desenvolvidas no âmbito da disciplina **Processamento de Dados IV - 
   Exemplo: **ativ11.exe 14 18**
   
 * **Atividade 12**:  
+  **Programa**: [ativ12.c](src/ativ12.c)
+  
