@@ -79,11 +79,12 @@ Atividades desenvolvidas no âmbito da disciplina **Processamento de Dados IV - 
   **Programa**: [ativ13.c](src/ativ13.c)  
   **Objetivo**: Escreva um programa que leia um arquivo do tipo base de dados em <ativ13.txt>, retire e apresente informações importantes na tela. Você pode criar o arquivo no EDIT (DOS), NOTEPAD (Windows), ou no PICO (UNIX e Linux).  
   O arquivo pode ser do tipo:  
+  ```
+   Nome:     Joao da Silva             Telefone: +55 00 000-0000
+   Endereco: Rua do Joao, 168
+   $
+   Nome:     Maria da Silva            Telefone: +55 99 999-9999
+   Endereco: Rua da Vila, 093
+   $
   ```   
-Nome:     Joao da Silva             Telefone: +55 00 000-0000
-Endereco: Rua do Joao, 168
-$
-Nome:     Maria da Silva            Telefone: +55 99 999-9999
-Endereco: Rua da Vila, 093
-$
-  ```   
+
