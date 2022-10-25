@@ -88,3 +88,4 @@ Atividades desenvolvidas no âmbito da disciplina **Processamento de Dados IV - 
    $
   ```   
 
+  Obs.: O simbolo <$> (dolar) entre os dados serve para informar que acabou uma sequência de dados, e pode ser usado para restabelecer o sincronismo, caso o programa se perca em algum ponto. Você pode usar um flag para encerrar, mas recomenda-se a utilização do feof() por questões de elegancia.
