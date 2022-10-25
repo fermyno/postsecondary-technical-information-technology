@@ -77,4 +77,5 @@ Atividades desenvolvidas no âmbito da disciplina **Processamento de Dados IV - 
 
 * **Atividade 13**:  
   **Programa**: [ativ13.c](src/ativ13.c)  
-  **Objetivo**: Escreva um programa que leia um arquivo do tipo base de dados em <ativ13.txt>, retire e apresente informações importantes na tela. Você pode criar o arquivo no EDIT (DOS), NOTEPAD (Windows), ou no PICO (UNIX e Linux). O arquivo pode ser do tipo:  
+  **Objetivo**: Escreva um programa que leia um arquivo do tipo base de dados em <ativ13.txt>, retire e apresente informações importantes na tela. Você pode criar o arquivo no EDIT (DOS), NOTEPAD (Windows), ou no PICO (UNIX e Linux).  
+  O arquivo pode ser do tipo:  
