@@ -74,3 +74,5 @@ Atividades desenvolvidas no âmbito da disciplina **Processamento de Dados IV - 
    O próximo termo e 5 (3+2).
    E assim sucessivamente.
   ```  
+
+* **Atividade 13**:
