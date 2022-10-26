@@ -90,5 +90,5 @@ Atividades desenvolvidas no âmbito da disciplina **Processamento de Dados IV - 
   Obs.: O simbolo <$> (dolar) entre os dados serve para informar que acabou uma sequência de dados, e pode ser usado para restabelecer o sincronismo, caso o programa se perca em algum ponto. Você pode usar um flag para encerrar, mas recomenda-se a utilização do feof() por questões de elegancia.
 
 * **Atividade 14**:  
-  **Programa**: [ativ14.c](src/ativ14.c)
+  **Programa**: [ativ14.c](src/ativ14.c)  
   **Objetivo**: Escreva um programa que compare dois arquivos (ativ14a.txt e ativ14b.txt) e imprime a primeira linha onde eles se diferem.  
