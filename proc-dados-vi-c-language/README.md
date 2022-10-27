@@ -93,7 +93,7 @@ Atividades desenvolvidas no âmbito da disciplina **Processamento de Dados IV - 
   **Programa**: [ativ14.c](src/ativ14.c)  
   **Objetivo**: Escreva um programa que compare dois arquivos (ativ14a.txt e ativ14b.txt) e imprime a primeira linha onde eles se diferem.  
 
-* **Atividade 15**:
+* **Atividade 15**:  
   **Programa**: [ativ15.c](src/ativ15.c)
   **Objetivo**: Faça um programa que controle um arquivo (ativ15.dat), contendo informações sobre pessoas. O programa deverá incluir novos nomes no arquivo, ler e alterar nomes que estejam armazenados. É obrigatório o uso de estruturas.
   
