@@ -95,4 +95,6 @@ Atividades desenvolvidas no âmbito da disciplina **Processamento de Dados IV - 
 
 * **Atividade 15**:
   **Programa**: [ativ15.c](src/ativ15.c)
+  **Objetivo**: Faça um programa que controle um arquivo (ativ15.dat), contendo informações sobre pessoas. O programa deverá incluir novos nomes no arquivo, ler e alterar nomes que estejam armazenados. É obrigatório o uso de estruturas.
+  
   
