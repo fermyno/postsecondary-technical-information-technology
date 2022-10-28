@@ -36,27 +36,7 @@ Atividades desenvolvidas no âmbito da disciplina **Processamento de Dados III -
 ![Screenshot-Report](images/screenshot-04.png)  
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+## Atividades de Exercícios
 
 * **Atividade 1:**  
   **Programa:** [ativ_01.pas](src/ativ_01.pas)  
