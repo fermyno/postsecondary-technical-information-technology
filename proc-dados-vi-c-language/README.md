@@ -12,7 +12,7 @@ Atividades desenvolvidas no âmbito da disciplina **Processamento de Dados IV - 
 ## Atividade Final
 
 * **Atividade Final**:  
-  **Programa**: [ativ15.c](src/atividade-final/calculo-de-salarios.c)
+  **Programa**: [ativ15.c](src/atividade-final/calculo-de-salarios.c)  
   **Objetivo:** Criar um programa que realize o processamento de salários.
   **Instruções:**  
   
