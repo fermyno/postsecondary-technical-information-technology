@@ -15,9 +15,8 @@ Atividades desenvolvidas no âmbito da disciplina **Processamento de Dados IV - 
   **Programa**: [ativ15.c](src/atividade-final/calculo-de-salarios.c)  
   **Objetivo:** Criar um programa que realize o processamento de salários.  
   **Instruções:**  
-  O Departamento de Recursos Humanos da Empresa XYZ enfrenta um problema com o excessivo tempo gasto no processamento da folha de pagamentos.
-Atualmente, todo o cálculo dos salários é realizado de forma manual, ocasionando erros de cálculos e demora na execucao do serviço.  
-Você será o responsável pelo desenvolvimento de um programa que deverá emitir um relatório com o cálculo do processamento de salários.
+  O Departamento de Recursos Humanos da Empresa XYZ enfrenta um problema com o excessivo tempo gasto no processamento da folha de pagamentos. Atualmente, todo o cálculo dos salários é realizado de forma manual, ocasionando erros de cálculos e demora na execucao do serviço.  
+Você será o responsável pelo desenvolvimento de um programa que deverá emitir um relatório com o cálculo do processamento de salários.  
   Utilizando os conceitos abordados durante o curso, você deverá criar um programa que faça a leitura de três arquivos diferentes (funcionarios.txt, horas-extras.txt, e faltas.txt), e processar o resultado final em um arquivo chamado calculo-de-salarios.txt
 
 
