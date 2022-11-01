@@ -25,6 +25,8 @@ Atividades desenvolvidas no âmbito da disciplina **Processamento de Dados IV - 
   Salario Bruto   = Salario Base + adicional horas-extras + adicional dependentes - faltas  
   
   O programa deverá fazer uso de estrutura para manipular os dados informados, e deverá apresentar um código limpo e organizado.  
+  O arquivo de cálculo de salários (calculo-de-salarios.txt) deverá ter uma largura máxima de 132 colunas, permitindo sua impressão nos equipamentos da empresa.  
+  
 
 
 ## Atividades de Exercícios
