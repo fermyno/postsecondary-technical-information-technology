@@ -22,7 +22,8 @@ Atividades desenvolvidas no âmbito da disciplina **Processamento de Dados IV - 
   O programa deverá calcular o desconto por dias de faltas usando como parâmetro: **DescontoDeFaltas = salarioBase / 24**  
   O Salário Liquido deverá ser calculado respeitando a seguinte ordem: 
   Salario Liquido = Salário Bruto - imposto de renda - seguranca social  
-
+  Salario Bruto   = Salario Base + adicional horas-extras + adicional dependentes - faltas  
+  
 
 
 ## Atividades de Exercícios
