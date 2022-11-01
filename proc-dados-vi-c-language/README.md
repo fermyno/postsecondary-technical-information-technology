@@ -21,7 +21,8 @@ Atividades desenvolvidas no âmbito da disciplina **Processamento de Dados IV - 
   O programa deverá calcular o adicional por horas-extras usando como parâmetro: **valorHorasExtras = horasExtras * (salarioBase / 80)**  
   O programa deverá calcular o desconto por dias de faltas usando como parâmetro: **DescontoDeFaltas = salarioBase / 24**  
   O Salário Liquido deverá ser calculado respeitando a seguinte ordem: 
-  
+  Salario Liquido = Salário Bruto - imposto de renda - seguranca social  
+
 
 
 ## Atividades de Exercícios
