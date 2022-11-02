@@ -14,11 +14,29 @@ Atividades desenvolvidas no âmbito da disciplina **Processamento de Dados IV - 
 * **Atividade Final**:  
   **Programa**: [ativ15.c](src/atividade-final/calculo-de-salarios.c)  
   **Objetivo:** Criar um programa que realize o processamento de salários.  
+  
   **Instruções:**  
   O Departamento de Recursos Humanos da Empresa XYZ enfrenta um problema com o excessivo tempo gasto no processamento da folha de pagamentos. Atualmente, todo o cálculo dos salários é realizado de forma manual, ocasionando erros de cálculos e demora na execucao do serviço. Você foi contratado para ser o novo responsável pelo desenvolvimento de um programa que deverá emitir um relatório com o cálculo do processamento de salários.  
   Utilizando os conceitos abordados durante o curso, você deverá criar um programa que faça a leitura de três arquivos diferentes (funcionarios.txt, horas-extras.txt, e faltas.txt), e processar o resultado final em um arquivo chamado *calculo-de-salarios.txt*.  
+  
   **Especificações:**  
-
+  O programa deverá calcular o adicional por horas-extras usando como parâmetro: **valorHorasExtras = horasExtras * (salarioBase / 80)**  
+  O programa deverá calcular o desconto por dias de faltas usando como parâmetro: **DescontoDeFaltas = salarioBase / 24**  
+  O Salário Liquido deverá ser calculado respeitando a seguinte ordem: 
+  Salario Liquido = Salário Bruto - imposto de renda - seguranca social  
+  Salario Bruto   = Salario Base + adicional horas-extras + adicional dependentes - faltas  
+  O programa deverá fazer uso de estrutura para manipular os dados informados, e deverá apresentar um código limpo e organizado.  
+  O arquivo de cálculo de salários (calculo-de-salarios.txt) deverá ter uma largura máxima de 132 colunas, permitindo sua impressão nos equipamentos da empresa.  
+  Os arquivos utilizados para a Atividade Final serão fornecidos pelo professor e apresentam as seguintes características:    
+  funcionarios.txt  
+  Arquivo texto em formato de largura fixa com os seguintes campos:  
+  ========================================================  
+  111111 2222222222222222222222222222222 3333333333 44  
+  ========================================================  
+  1 int    matriculaFuncionario  
+  2 char   nomeFuncionario[30]  
+  3 double salarioBase  
+  4 int    dependentes  
   
   
 
