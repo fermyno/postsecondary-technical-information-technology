@@ -28,6 +28,7 @@ Atividades desenvolvidas no âmbito da disciplina **Processamento de Dados IV - 
   O arquivo de cálculo de salários (calculo-de-salarios.txt) deverá ter uma largura máxima de 132 colunas, permitindo sua impressão nos equipamentos da empresa.  
   Os arquivos utilizados para a Atividade Final serão fornecidos pelo professor e apresentam as seguintes características:    
   funcionarios.txt  
+  Arquivo texto em formato de largura fixa com os seguintes campos:  
   
 
 ## Atividades de Exercícios
