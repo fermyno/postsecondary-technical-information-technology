@@ -34,6 +34,7 @@ Atividades desenvolvidas no âmbito da disciplina **Processamento de Dados IV - 
   ========================================================  
   1 int    matriculaFuncionario;  
   2 char   nomeFuncionario[30];  
+  3 double salarioBase;  
   
   
 
