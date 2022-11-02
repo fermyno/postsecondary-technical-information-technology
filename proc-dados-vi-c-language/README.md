@@ -23,7 +23,6 @@ Atividades desenvolvidas no âmbito da disciplina **Processamento de Dados IV - 
   O Salário Liquido deverá ser calculado respeitando a seguinte ordem: 
   Salario Liquido = Salário Bruto - imposto de renda - seguranca social  
   Salario Bruto   = Salario Base + adicional horas-extras + adicional dependentes - faltas  
-  
   O programa deverá fazer uso de estrutura para manipular os dados informados, e deverá apresentar um código limpo e organizado.  
   O arquivo de cálculo de salários (calculo-de-salarios.txt) deverá ter uma largura máxima de 132 colunas, permitindo sua impressão nos equipamentos da empresa.  
   Os arquivos utilizados para a Atividade Final serão fornecidos pelo professor e apresentam as seguintes características:    
