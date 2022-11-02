@@ -32,6 +32,8 @@ Atividades desenvolvidas no âmbito da disciplina **Processamento de Dados IV - 
   ========================================================  
   111111 2222222222222222222222222222222 3333333333 44  
   ========================================================  
+  1 int    matriculaFuncionario;  
+  
   
 
 ## Atividades de Exercícios
