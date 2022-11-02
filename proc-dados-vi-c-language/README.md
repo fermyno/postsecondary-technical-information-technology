@@ -29,6 +29,7 @@ Atividades desenvolvidas no âmbito da disciplina **Processamento de Dados IV - 
   Os arquivos utilizados para a Atividade Final serão fornecidos pelo professor e apresentam as seguintes características:    
   funcionarios.txt  
   Arquivo texto em formato de largura fixa com os seguintes campos:  
+  ========================================================  
   
 
 ## Atividades de Exercícios
