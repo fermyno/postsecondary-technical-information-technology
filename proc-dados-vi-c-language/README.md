@@ -30,6 +30,7 @@ Atividades desenvolvidas no âmbito da disciplina **Processamento de Dados IV - 
   funcionarios.txt  
   Arquivo texto em formato de largura fixa com os seguintes campos:  
   ========================================================  
+  111111 2222222222222222222222222222222 3333333333 44  
   
 
 ## Atividades de Exercícios
