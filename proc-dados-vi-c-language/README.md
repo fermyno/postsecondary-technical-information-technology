@@ -48,6 +48,7 @@ Atividades desenvolvidas no âmbito da disciplina **Processamento de Dados IV - 
   2 int    horasExtras  
   
   faltas.txt
+  Arquivo texto em formato de largura fixa com os seguintes campos:
   
   
   ```  
