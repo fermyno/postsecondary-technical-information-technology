@@ -50,6 +50,7 @@ Atividades desenvolvidas no âmbito da disciplina **Processamento de Dados IV - 
   faltas.txt
   Arquivo texto em formato de largura fixa com os seguintes campos:
   ========================================================
+  111111 22
   ========================================================
   
   
