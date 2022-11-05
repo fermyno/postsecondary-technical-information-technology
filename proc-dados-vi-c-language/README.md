@@ -59,6 +59,7 @@ Atividades desenvolvidas no âmbito da disciplina **Processamento de Dados IV - 
   Arquivo texto em formato de largura fixa com os seguintes campos:
   ====================================================================================================================================
   ************************************************************************************************************************************
+  ** EMPRESA XYZ ** CALCULO DE PROCESSAMENTO DE SALARIOS **                                                           ** 01/10/2005 **
   
   ```  
   
