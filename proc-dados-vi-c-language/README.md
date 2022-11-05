@@ -57,6 +57,7 @@ Atividades desenvolvidas no âmbito da disciplina **Processamento de Dados IV - 
   
   calculo-de-salarios.txt (relatório)
   Arquivo texto em formato de largura fixa com os seguintes campos:
+  ====================================================================================================================================
   
   ```  
   
