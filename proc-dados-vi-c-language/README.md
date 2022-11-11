@@ -74,6 +74,7 @@ Foi desenvolvido um programa em linguagem C que realiza a leitura dos arquivos <
 
 
 
+<br />
 
 ## Atividades de Exercícios
 
