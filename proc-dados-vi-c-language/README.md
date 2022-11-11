@@ -76,6 +76,7 @@ O código-fonte do programa está disponível no seginte link: ![Código-fonte](
 
 ### Capturas de Tela
 
+![Captura de Tela](images/fluxograma-atividade-final.jpg) 
 
 <br />
 
