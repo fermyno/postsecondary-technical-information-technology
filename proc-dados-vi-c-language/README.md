@@ -72,8 +72,9 @@ Foi desenvolvido um programa em linguagem C que realiza a leitura dos arquivos <
 
 ### Código-fonte do programa
 
-O código-fonte do programa está disponível no seginte link:  
-=> ![Código-fonte](src/atividade-final/calculo-de-salarios.c).  
+O código-fonte do programa está disponível no seginte link: ![Código-fonte](src/atividade-final/calculo-de-salarios.c).  
+
+### Capturas de Tela
 
 
 <br />
