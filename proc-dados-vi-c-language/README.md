@@ -68,7 +68,7 @@ Atividades desenvolvidas no âmbito da disciplina **Processamento de Dados IV - 
   ```  
 ### Solução Apresentada
 
-Foi desenvolvido um programa em linguagem C que realiza a leitura dos arquivos <funcionarios.txt>, <horas-extras.txt>, e <faltas.txt> guarda seus valores em uma estrutura. Na sequencia, o programa percorre toda a estrutura realizando os cálculos necessários para o processamento de salário. Na última etapa, o programa grava todo o conteúdo da estrutura no arquivo <calculo-de-salarios.txt> conforme o formato proposto no enunciado.  
+Foi desenvolvido um programa em linguagem C que realiza a leitura dos arquivos <funcionarios.txt>, <horas-extras.txt>, e <faltas.txt> guarda seus valores em uma estrutura. Na sequencia, o programa percorre toda a estrutura realizando os cálculos necessários para o processamento de salário. Na última etapa, o programa grava todo o conteúdo da estrutura no arquivo <calculo-de-salarios.txt>, conforme o formato proposto no enunciado.  
 
 ![Captura de Tela](images/fluxograma-atividade-final.jpg)  
 
@@ -78,7 +78,7 @@ O código-fonte do programa está disponível no seginte link: ![Código-fonte](
 
 ### Capturas de Tela
 
-![Captura de Tela](images/fluxograma-atividade-final.jpg) 
+![Captura de Tela](images/screenshot-01.jpg)  
 
 <br />
 
