@@ -79,6 +79,7 @@ O código-fonte do programa está disponível no seginte link: ![Código-fonte](
 ### Capturas de Tela
 
 ![Captura de Tela](images/screenshot-01.jpg)  
+![Captura de Tela](images/screenshot-02.jpg)  
 
 <br />
 
