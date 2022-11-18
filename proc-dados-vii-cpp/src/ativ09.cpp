@@ -21,7 +21,7 @@ int main()
 {
     // escreve conteudo se arquivo existe
     std::ofstream arq;
-    arq.open("arquivo.txt");
+    arq.open("ativ09.txt");
     // Apenas escreva no arquivo se ele existe
     if (arq.is_open())
     {
