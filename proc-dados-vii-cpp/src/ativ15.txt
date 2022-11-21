@@ -1,0 +1,6 @@
+Dados do aluno  #
+Cod. Matricula  : 1002
+Nome Completo   : Fermyno Gutierrez
+Data Nascimento : 19700815
+Endereco        : Rua Que Sobe e Desce
+Cod. Postal     : 90000
