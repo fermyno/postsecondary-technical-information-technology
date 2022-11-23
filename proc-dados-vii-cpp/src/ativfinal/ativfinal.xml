@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<DadosFuncionarios FormatVersion="1">
+    <Funcionarios>
+        <Funcionario Nome="Renata Cardoso" Matricula="1001" Cargo="Administrador" Salario="2.320,00" Departamento="Administracao"></Funcionario>
+        <Funcionario Nome="Joao da Silva" Matricula="1002" Cargo="Vendedor" Salario="1.990,85" Departamento="Comercial"></Funcionario>
+        <Funcionario Nome="Maria Mercedes Medeiros" Matricula="1003" Cargo="Analista" Salario="2.310,12" Departamento="Financeiro"></Funcionario>
+        <Funcionario Nome="Carlos Almeida Oliveira" Matricula="1004" Cargo="Vendedor" Salario="1.990,85" Departamento="Comercial"></Funcionario>
+        <Funcionario Nome="Cecilia Gomes" Matricula="1005" Cargo="Vendedor" Salario="2.010,02" Departamento="Comercial"></Funcionario>
+        <Funcionario Nome="Alexandra Medeiros Olivenca" Matricula="1006" Cargo="Recursos Humanos" Salario="2.010,00" Departamento="Administracao"></Funcionario>
+        <Funcionario Nome="Maria Claudia Almeida" Matricula="1007" Cargo="Comprador" Salario="2.010,00" Departamento="Administracao"></Funcionario>
+        <Funcionario Nome="Karia Maria Souza" Matricula="1008" Cargo="Supervisor de Vendas" Salario="2.600,22" Departamento="Comercial"></Funcionario>
+        <Funcionario Nome="Goncalo Renato Viana" Matricula="1009" Cargo="Analista" Salario="2.310,12" Departamento="Financeiro"></Funcionario>
+    </Funcionarios>
+</DadosFuncionarios>
