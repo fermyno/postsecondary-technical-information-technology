@@ -11,4 +11,4 @@ Atividades desenvolvidas no âmbito da disciplina **Processamento de Dados VII -
 
 ## **Atividade Final:**  
   **Programa:** [ativfinal.cpp](src/ativfinal/ativfinal.cpp)  
-  
+  **Enunciado:** Criar um programa de conversão de XMl para CSV.    
