@@ -16,3 +16,4 @@ Atividades desenvolvidas no âmbito da disciplina **Processamento de Dados VII -
   - O aluno deverá criar um programa que converta um arquivo em formato XML (ativfinal.xml) em outro arquivo em formato CSV (ativfinal.csv).
   - O aluno poderá fazer uso de bibliotecas externas, porém, as atividades de pesquisa, escolha, e implantação dessas bibliotecas, será de inteira responsabilidade do aluno.
   - O programa deve permitir o acompanhamento de sua execução através da impressão de um texto "log" na tela.
+  - **Atenção:** a ordem dos campos do arquivo XML não corresponde exatamente com a ordem dos campos no arquivo XML, portanto, o aluno deverá ler os dados do arquivo XML, identificar o campo correspondente, salvar em variáveis, e posteriormente escrever o conteúdo no arquivo CSV na ordem correta!
