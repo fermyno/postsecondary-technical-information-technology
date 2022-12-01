@@ -20,3 +20,5 @@ Atividades desenvolvidas no âmbito da disciplina **Processamento de Dados VII -
   - **Ordem dos campos:**
     - Arquivo **XML**: nome + matricula + cargo + salario + departamento
     - Arquivo **CSV**: matricula + nome + departamento + cargo + salario
+  - As dúvidas devem ser tiradas com o professor, ANTES da entrega do trabalho.
+
