@@ -23,4 +23,4 @@ Atividades desenvolvidas no âmbito da disciplina **Processamento de Dados VII -
   - As dúvidas devem ser tiradas com o professor, ANTES da entrega do trabalho.
 
 ## Atividades de Exercícios
-
+* **Atividade 1:**  
