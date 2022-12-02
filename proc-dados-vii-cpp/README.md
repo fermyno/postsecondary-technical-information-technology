@@ -24,5 +24,5 @@ Atividades desenvolvidas no âmbito da disciplina **Processamento de Dados VII -
 
 ## Atividades de Exercícios
 * **Atividade 1:**  
-  **Programa:** [ativ01.cpp](src/ativ01.cpp)
-  **Objetivo:** Programa que escreve o famoso "Ola mundo" na tela.
+  **Programa:** [ativ01.cpp](src/ativ01.cpp)  
+  **Objetivo:** Programa que escreve o famoso "Ola mundo" na tela.  
