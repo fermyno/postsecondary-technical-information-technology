@@ -39,4 +39,5 @@ Atividades desenvolvidas no âmbito da disciplina **Processamento de Dados VII -
   
 * **Atividade 4:**  
   **Programa:** [ativ04.cpp](src/ativ04.cpp)  
+  **Objetivo:** Programa que lê um número digitado pelo usuário e informa na tela se é par ou impar.  
   
