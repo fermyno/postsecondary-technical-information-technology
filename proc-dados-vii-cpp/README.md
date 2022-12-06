@@ -35,4 +35,5 @@ Atividades desenvolvidas no âmbito da disciplina **Processamento de Dados VII -
 
 * **Atividade 3:**  
   **Programa:** [ativ03.cpp](src/ativ03.cpp)  
+  **Objetivo:** Programa que demonstra a utilização do printf.  
   
