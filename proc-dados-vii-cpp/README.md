@@ -32,3 +32,5 @@ Atividades desenvolvidas no âmbito da disciplina **Processamento de Dados VII -
 * **Atividade 2:**  
   **Programa:** [ativ02.cpp](src/ativ02.cpp)  
   **Objetivo:** Programa que incrementa um número inteiro informado pelo usuário.  
+
+* **Atividade 3:**  
