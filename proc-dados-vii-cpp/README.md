@@ -51,4 +51,5 @@ Atividades desenvolvidas no âmbito da disciplina **Processamento de Dados VII -
   
 * **Atividade 7:**  
   **Programa:** [ativ07.cpp](src/ativ07.cpp)  
+  **Objetivo:** Programa que utiliza a biblioteca <ctime> e mostra a data no formato 1/1/1900, 0h0m0s  
   
