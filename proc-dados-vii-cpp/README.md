@@ -49,3 +49,4 @@ Atividades desenvolvidas no âmbito da disciplina **Processamento de Dados VII -
   **Programa:** [ativ06.cpp](src/ativ06.cpp)  
   **Objetivo:** Programa que mostra na tela o seno, cosseno e tangente de um ângulo.  
   
+* **Atividade 7:**  
