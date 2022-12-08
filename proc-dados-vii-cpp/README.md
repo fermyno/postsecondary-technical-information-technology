@@ -55,6 +55,6 @@ Atividades desenvolvidas no âmbito da disciplina **Processamento de Dados VII -
   
 * **Atividade 8:**  
   **Programa:** [ativ08.cpp](src/ativ08.cpp)  
-
+  **Objetivo:** Manipulação de string usando a biblioteca <cctype>. Conversão de caracteres maiúsculos/minúsculos.  
   
   
