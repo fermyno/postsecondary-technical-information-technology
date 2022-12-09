@@ -19,8 +19,8 @@ Atividades desenvolvidas no âmbito da disciplina **Processamento de Dados VII -
   - O programa deve permitir o acompanhamento de sua execução através da impressão de um texto "log" na tela.
   - **Atenção:** a ordem dos campos do arquivo XML não corresponde exatamente com a ordem dos campos no arquivo XML, portanto, o aluno deverá ler os dados do arquivo XML, identificar o campo correspondente, salvar em variáveis, e posteriormente escrever o conteúdo no arquivo CSV na ordem correta!
   - **Ordem dos campos:**
-    - Arquivo **XML**: nome + matricula + cargo + salario + departamento
-    - Arquivo **CSV**: matricula + nome + departamento + cargo + salario
+    - Arquivo **XML**: nome + matrícula + cargo + salário + departamento
+    - Arquivo **CSV**: matrícula + nome + departamento + cargo + salário
   - As dúvidas devem ser tiradas com o professor, ANTES da entrega do trabalho.
 
 ## Atividades de Exercícios  
@@ -43,10 +43,10 @@ Atividades desenvolvidas no âmbito da disciplina **Processamento de Dados VII -
   
 * **Atividade 5:**  
   **Programa:** [ativ05.cpp](src/ativ05.cpp)  
-  **Objetivo:** Programa que lê dois números informados pelo usuário e apresenta um menu com as opções:  
-  1. Somar os dois numeros;  
-  2. Multiplicar os dois numeros;  
-  3. Calcular a media dos numeros;  
+  **Objetivo:** Programa que lê dois números informados pelo usuário e apresenta um menu com as seguintes opções:  
+  1. Somar os dois números;  
+  2. Multiplicar os dois números;  
+  3. Calcular a media dos números;  
   0. Sair  
   
 * **Atividade 6:**  
