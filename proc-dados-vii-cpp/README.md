@@ -44,10 +44,10 @@ Atividades desenvolvidas no âmbito da disciplina **Processamento de Dados VII -
 * **Atividade 5:**  
   **Programa:** [ativ05.cpp](src/ativ05.cpp)  
   **Objetivo:** Programa que lê dois números informados pelo usuário e apresenta um menu com as seguintes opções:  
-  1. Somar os dois números;  
-  2. Multiplicar os dois números;  
-  3. Calcular a media dos números;  
-  0. Sair  
+  (1). Somar os dois números;  
+  (2). Multiplicar os dois números;  
+  (3). Calcular a media dos números;  
+  (0). Sair  
   
 * **Atividade 6:**  
   **Programa:** [ativ06.cpp](src/ativ06.cpp)  
