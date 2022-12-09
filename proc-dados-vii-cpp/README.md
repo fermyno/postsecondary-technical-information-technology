@@ -59,4 +59,6 @@ Atividades desenvolvidas no âmbito da disciplina **Processamento de Dados VII -
   
 * **Atividade 9:**    
   **Programa:** [ativ09.cpp](src/ativ09.cpp)  
-  **Objetivo:** Programa que abre um arquivo EXISTENTE, e escreve uma mensagem secreta. Atenção: o arquivo deve   
+  **Objetivo:** Programa que abre um arquivo EXISTENTE, e escreve uma mensagem secreta. Atenção: o arquivo deve EXISTIR.  
+
+  
