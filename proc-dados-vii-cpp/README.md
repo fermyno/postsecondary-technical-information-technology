@@ -66,5 +66,5 @@ Atividades desenvolvidas no âmbito da disciplina **Processamento de Dados VII -
   **Objetivo:** Programa que abre um arquivo EXISTENTE, e escreve uma mensagem secreta. Atenção: o arquivo deve EXISTIR.  
 
 * **Atividade 10:**  
-  **Programa:** [ativ10.cpp](src/ativ10.cpp)
+  **Programa:** [ativ10.cpp](src/ativ10.cpp)  
   **Objetivo:** Programa que mostra um vetor char de 10 posições na tela.
