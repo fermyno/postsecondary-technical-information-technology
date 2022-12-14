@@ -75,3 +75,6 @@ Atividades desenvolvidas no âmbito da disciplina **Processamento de Dados VII -
 
 * **Atividade 12:**  
   **Programa:** [ativ12.cpp](src/ativ12.cpp)  
+  **Objetivo:** Programa que percorre uma matriz e imprime seus valores.  
+  
+  
