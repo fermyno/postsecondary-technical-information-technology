@@ -74,4 +74,4 @@ Atividades desenvolvidas no âmbito da disciplina **Processamento de Dados VII -
   **Objetivo:** Programa que conta a quantidade de vogais em uma palavra.  
 
 * **Atividade 12:**  
-  
+  **Programa:** [ativ12.cpp](src/ativ12.cpp)  
