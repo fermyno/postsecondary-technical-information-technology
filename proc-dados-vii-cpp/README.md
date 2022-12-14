@@ -79,4 +79,4 @@ Atividades desenvolvidas no âmbito da disciplina **Processamento de Dados VII -
   
 * **Atividade 13:**    
   **Programa:** [ativ13.cpp](src/ativ13.cpp)
-  
+  **Objetivo:** Programa que inicializa uma estrutura e mostra seus dados na tela.  
