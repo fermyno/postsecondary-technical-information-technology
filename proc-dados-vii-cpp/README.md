@@ -23,6 +23,10 @@ Atividades desenvolvidas no âmbito da disciplina **Processamento de Dados VII -
     - Arquivo **CSV**: matrícula + nome + departamento + cargo + salário
   - As dúvidas devem ser tiradas com o professor, ANTES da entrega do trabalho.
 
+![XML to CSV](images/AMLtoCSV.jpg)
+
+<br />
+
 ## Atividades de Exercícios  
 
 * **Atividade 1:**  
