@@ -85,3 +85,4 @@ Atividades desenvolvidas no âmbito da disciplina **Processamento de Dados VII -
   **Programa:** [ativ14.cpp](src/ativ14.cpp)
   **Objetivo:** Aprimorando a atividade anterior, o aluno deve modificar o programa de modo a permitir que o usuário introduza os dados do aluno manualmente, via teclado em uma estrutura e mostre os resultados na tela.
   
+* **Atividade 15:**
