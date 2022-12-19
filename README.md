@@ -7,7 +7,8 @@ Repositório de estudos desenvolvidos como requisitos para a conclusão do Curso
 * [Proc. de Dados III - Pascal](proc.dados-iii-pascal)
 * [Proc. de Dados IV - Linguagem C](proc.dados-iv-hardware)
 * [Proc. de Dados V - Delphi](proc.dados-v-delphi)
-
+* [Proc. de Dados VI - Hardware](proc.dados-vi-linguagem-c)
+* 
 
 <br>
 :clock3: Please wait while the document is being prepared for uploading... 
