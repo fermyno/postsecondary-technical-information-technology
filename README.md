@@ -3,7 +3,7 @@
 Repositório de estudos desenvolvidos como requisitos para a conclusão do Curso **Técnico em Informática** pelo Instituto São Francisco - Santa Família.  
 
 * **Curso**: **Técnico em Informática**
-* 
+* **Carga horária**: 1.640 horas
 
 <br>
 :clock3: Please wait while the document is being prepared for uploading... 
