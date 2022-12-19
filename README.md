@@ -4,6 +4,9 @@ Repositório de estudos desenvolvidos como requisitos para a conclusão do Curso
 
 ## Disciplinas
 
+* [Proc. de Dados III - Pascal](proc.dados-iii-pascal)
+* 
+
 <br>
 :clock3: Please wait while the document is being prepared for uploading... 
 <br>
