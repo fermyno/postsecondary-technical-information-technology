@@ -1,6 +1,6 @@
 # Postsecondary Technical Certificate in Information Technology
 
-
+Repositório de estudos desenvolvidos como requisitos para a conclusão do Curso **Técnico em Informática** pelo Instituto São Francisco - Santa Família.
 
 
 
