@@ -10,6 +10,3 @@ Repositório de estudos desenvolvidos como requisitos para a conclusão do Curso
 * [Proc. de Dados VI - Hardware](proc.dados-vi-linguagem-c)
 * [Proc. de Dados VII - Hardware](proc.dados-vii-linguagem-cpp)
 
-<br>
-:clock3: Please wait while the document is being prepared for uploading... 
-<br>
