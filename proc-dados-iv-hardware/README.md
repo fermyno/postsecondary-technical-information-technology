@@ -36,7 +36,7 @@ Link para o shell script: <a href="https://github.com/fermyno/postsecondary-tech
 
 Código-fonte:  
 
-```
+```bash
 #!/bin/bash
 
 # ATENCAO:
