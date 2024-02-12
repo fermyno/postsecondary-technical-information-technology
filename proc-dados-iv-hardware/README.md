@@ -14,10 +14,6 @@ Atividade desenvolvida no âmbito da disciplina **Processamento de Dados IV - Ha
 
 Escreva um programa em qualquer linguagem que retorne informacoes sobre o hardware do equipamento.
 
-### Solução Apresentada
-Desenvolvimento de um shell script com recursos do Zenith para exibir informações do hardware em modo gráfico no sistema operacional Linux.  
-Link para o shell script: <a href="https://github.com/fermyno/postsecondary-technical-information-technology/blob/main/proc-dados-iv-hardware/src/hardcons.sh">hardcons.sh</a>
-
 ### Capturas de Tela
 
 ![Execução em linha de comando](images/screenshot-00.png)
@@ -31,4 +27,9 @@ Link para o shell script: <a href="https://github.com/fermyno/postsecondary-tech
 ![Consulta de Hardware](images/screenshot-04.png)
 
 ![Consulta de Informações do Sistema](images/screenshot-05.png)
+
+### Solução Apresentada
+
+Desenvolvimento de um shell script com recursos do Zenith para exibir informações do hardware em modo gráfico no sistema operacional Linux.  
+Link para o shell script: <a href="https://github.com/fermyno/postsecondary-technical-information-technology/blob/main/proc-dados-iv-hardware/src/hardcons.sh">hardcons.sh</a>
 
