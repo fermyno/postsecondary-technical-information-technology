@@ -28,8 +28,11 @@ Escreva um programa em qualquer linguagem que retorne informacoes sobre o hardwa
 
 ![Consulta de Informações do Sistema](images/screenshot-05.png)
 
-### Solução Apresentada
+## Solução Apresentada
 
 Desenvolvimento de um shell script com recursos do Zenith para exibir informações do hardware em modo gráfico no sistema operacional Linux.  
+
 Link para o shell script: <a href="https://github.com/fermyno/postsecondary-technical-information-technology/blob/main/proc-dados-iv-hardware/src/hardcons.sh">hardcons.sh</a>
+
+Código-fonte:  
 
