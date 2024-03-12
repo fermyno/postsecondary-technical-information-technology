@@ -4,7 +4,7 @@ Repositório de estudos desenvolvidos como requisitos para a conclusão do Curso
 <br />
 
 
-## Disciplinas
+## 📚 Disciplinas
 <br />
 
 * [Proc. de Dados III - Pascal](https://github.com/fermyno/postsecondary-technical-information-technology/tree/main/proc-dados-iii-pascal)
