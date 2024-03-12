@@ -7,8 +7,8 @@ Repositório de estudos desenvolvidos como requisitos para a conclusão do Curso
 ## 📚 Disciplinas
 <br />
 
-* **<code>Proc. de Dados III - Pascal</code>**  
-Atividades desenvolvidas no âmbito da disciplina Processamento de Dados III - Pascal.  
+* **<code>Processamento de Dados III</code>**  
+Atividades desenvolvidas no âmbito da disciplina Processamento de Dados III - *Linguagem Pascal*.  
 📂 [Acessar projetos da disciplina](https://github.com/fermyno/postsecondary-technical-information-technology/tree/main/proc-dados-iii-pascal)
 <br />
 
