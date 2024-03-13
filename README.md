@@ -10,9 +10,13 @@ Repositório de estudos desenvolvidos como requisitos para a conclusão do Curso
 * **<code>Processamento de Dados III</code>**  
 Atividades desenvolvidas no âmbito da disciplina Processamento de Dados III - **Linguagem Pascal**.  
 📂 [Acessar projetos da disciplina](https://github.com/fermyno/postsecondary-technical-information-technology/tree/main/proc-dados-iii-pascal)
-<br />
 
-* [Proc. de Dados III - Pascal](https://github.com/fermyno/postsecondary-technical-information-technology/tree/main/proc-dados-iii-pascal)
+* **<code>Processamento de Dados IV</code>**  
+Atividades desenvolvidas no âmbito da disciplina Processamento de Dados IV - **Hardware**.  
+📂 [Acessar projetos da disciplina](https://github.com/fermyno/postsecondary-technical-information-technology/tree/main/proc-dados-iv-hardware)
+
+
+
   
 * [Proc. de Dados IV - Hardware](https://github.com/fermyno/postsecondary-technical-information-technology/tree/main/proc-dados-iv-hardware)
   
