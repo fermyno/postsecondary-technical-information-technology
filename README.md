@@ -15,7 +15,9 @@ Atividades desenvolvidas no âmbito da disciplina Processamento de Dados III - *
 Atividades desenvolvidas no âmbito da disciplina Processamento de Dados IV - **Hardware**.  
 📂 [Acessar projetos da disciplina](https://github.com/fermyno/postsecondary-technical-information-technology/tree/main/proc-dados-iv-hardware)
 
-
+* **<code>Processamento de Dados V</code>**  
+Atividades desenvolvidas no âmbito da disciplina Processamento de Dados V - **Delphi**.  
+📂 [Acessar projetos da disciplina](https://github.com/fermyno/postsecondary-technical-information-technology/tree/main/proc-dados-v-delphi)
 
   
 
