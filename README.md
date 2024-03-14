@@ -20,8 +20,6 @@ Atividades desenvolvidas no âmbito da disciplina Processamento de Dados V - **D
 📂 [Acessar projetos da disciplina](https://github.com/fermyno/postsecondary-technical-information-technology/tree/main/proc-dados-v-delphi)
 
   
-
-* [Proc. de Dados V - Delphi](https://github.com/fermyno/postsecondary-technical-information-technology/tree/main/proc-dados-v-delphi)
   
 * [Proc. de Dados VI - Linguagem C](https://github.com/fermyno/postsecondary-technical-information-technology/tree/main/proc-dados-vi-c-language)
   
