@@ -26,6 +26,6 @@ Atividades desenvolvidas no âmbito da disciplina Processamento de Dados VI - **
   
 * [Proc. de Dados VII - Linguagem C++](https://github.com/fermyno/postsecondary-technical-information-technology/tree/main/proc-dados-vii-cpp)
 
-* **<code>Processamento de Dados VI</code>**  
-Atividades desenvolvidas no âmbito da disciplina Processamento de Dados VI - **Linguagem C**.  
-📂 [Acessar projetos da disciplina](https://github.com/fermyno/postsecondary-technical-information-technology/tree/main/proc-dados-vi-c-language)  
+* **<code>Processamento de Dados VII</code>**  
+Atividades desenvolvidas no âmbito da disciplina Processamento de Dados VII - **Linguagem C++**.  
+📂 [Acessar projetos da disciplina](https://github.com/fermyno/postsecondary-technical-information-technology/tree/main/proc-dados-vii-cpp)  
