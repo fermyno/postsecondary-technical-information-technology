@@ -11,8 +11,6 @@
 Atividades desenvolvidas no âmbito da disciplina **Processamento de Dados III - Pascal** do curso Técnico em Informática do Instituto São Francisco - Santa Família.
 <br />
 
-**Programa:** [atvfinal.pas](src/atvfinal.pas)  
-<br>
 **Enunciado:** O aluno deve escrever um programa que apresente as funcionalidades listadas abaixo.  
 **Ver Enunciado em PDF:** [atvfinal-instrucoes.pdf](src/atvfinal-instrucoes.pdf)
 <br>
@@ -23,6 +21,12 @@ Atividades desenvolvidas no âmbito da disciplina **Processamento de Dados III -
 5. Deve permitir a exibição dos dados do arquivo na tela;
 6. Cada nova gravação de dados no arquivo deve ser adicionada ao final das anteriores; 
 7. O programa deve apresentar um menu que permita selecionar entre: gravar dados, ler dados, ou sair do programa.  
+<br />
+
+
+## Código fonte
+
+**Programa:** [atvfinal.pas](src/atvfinal.pas)  
 <br />
 
 
