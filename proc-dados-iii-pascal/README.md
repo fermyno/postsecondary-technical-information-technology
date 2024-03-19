@@ -4,10 +4,12 @@
 > 
 > [DEPRECATED]  
 > A tecnologia em uso neste repositório encontra-se obsoleta em muitos aspectos, e foram desenvolvidos no âmbito acadêmico. Os arquivos estão mantidos neste repositório apenas para fins de demonstração e documentação. 
+<br />
 
 ## Atividades
 
 Atividades desenvolvidas no âmbito da disciplina **Processamento de Dados III - Pascal** do curso Técnico em Informática do Instituto São Francisco - Santa Família.
+<br />
 
 ## Atividade Final
 
@@ -23,6 +25,7 @@ Atividades desenvolvidas no âmbito da disciplina **Processamento de Dados III -
 5. Deve permitir a exibição dos dados do arquivo na tela;
 6. Cada nova gravação de dados no arquivo deve ser adicionada ao final das anteriores; 
 7. O programa deve apresentar um menu que permita selecionar entre: gravar dados, ler dados, ou sair do programa.  
+<br />
 
 
 ## Capturas de Tela da Atividade Final
@@ -34,6 +37,7 @@ Atividades desenvolvidas no âmbito da disciplina **Processamento de Dados III -
 ![Screenshot-Insert Data](images/screenshot-03.png)  
 
 ![Screenshot-Report](images/screenshot-04.png)  
+<br />
 
 
 ## Atividades de Exercícios
@@ -74,3 +78,5 @@ Atividades desenvolvidas no âmbito da disciplina **Processamento de Dados III -
   **Programa:** [ativ_09.pas](src/ativ_09.pas)  
   **Objetivo:** Exemplo de uso de funções.
   
+<br />
+<br />
