@@ -25,7 +25,7 @@ Atividades desenvolvidas no âmbito da disciplina **Processamento de Dados III -
 7. O programa deve apresentar um menu que permita selecionar entre: gravar dados, ler dados, ou sair do programa.  
 
 
-### Capturas de Tela da Atividade Final
+## Capturas de Tela da Atividade Final
 
 ![Screenshot Slash](images/screenshot-01.png)  
 
