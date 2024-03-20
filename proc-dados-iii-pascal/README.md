@@ -27,7 +27,6 @@ Atividades desenvolvidas no âmbito da disciplina **Processamento de Dados III -
 ## Código fonte
 
 **Download do Programa:** [atvfinal.pas](src/atvfinal.pas)  
-<br />
 ```pascal
 Program atvfinal;
 (* Curso: Tec. Informatica - Colegio Santa Familia *)
@@ -157,7 +156,6 @@ begin
    end;
 
 end.
-
 ```
 <br />
 
