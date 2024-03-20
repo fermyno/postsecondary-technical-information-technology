@@ -157,7 +157,6 @@ begin
 
 end.
 ```
-<br />
 
 ## Capturas de Tela da Atividade Final
 
