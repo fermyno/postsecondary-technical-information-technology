@@ -17,13 +17,6 @@ O aluno deve escrever um programa que apresente as seguintes funcionalidades:
 4. O programa deve apresentar um menu que permita selecionar a tabela desejada para visualização
 5. O aluno deve documentar toda a construção do programa em um arquivo de texto (MS Word ou OpenOffice Writer) contendo imagens e instruções passo-a-passo da construção do programa (obrigatório!!!).
 
-## Solução Apresentada:
-
-Diante dos requisitos levantados, optou-se por uma solução com foco na usuabilidade, composta por uma interface simples e intuitiva que permite rapidamente a consulta dos alunos de todas as turmas. É possível, ainda, editar as notas dos alunos de forma rápida e simplificada.
-Para a etapa de codificação do programa foi utilizada a IDE Lazarus, devido ao seu código de uso aberto e possibilidade de compilação para as plataformas Windows e Linux.  
-Todos os passos necessários para a construção do programa estão relatados detalhadamente no seguinte documento:  
-=> ![Passo-a-passo para a construção do programa](docs/realizacao-trabalho-final--delphi.pdf).
-
 ### Código-fonte do programa
 
 O código-fonte do programa está disponível no seginte link:  
@@ -34,3 +27,10 @@ O código-fonte do programa está disponível no seginte link:
 
 ![Captura de Tela](images/screenshot.jpg)  
 
+
+## Solução Apresentada:
+
+Diante dos requisitos levantados, optou-se por uma solução com foco na usuabilidade, composta por uma interface simples e intuitiva que permite rapidamente a consulta dos alunos de todas as turmas. É possível, ainda, editar as notas dos alunos de forma rápida e simplificada.
+Para a etapa de codificação do programa foi utilizada a IDE Lazarus, devido ao seu código de uso aberto e possibilidade de compilação para as plataformas Windows e Linux.  
+Todos os passos necessários para a construção do programa estão relatados detalhadamente no seguinte documento:  
+=> ![Passo-a-passo para a construção do programa](docs/realizacao-trabalho-final--delphi.pdf).
