@@ -17,13 +17,13 @@ O aluno deve escrever um programa que apresente as seguintes funcionalidades:
 4. O programa deve apresentar um menu que permita selecionar a tabela desejada para visualização
 5. O aluno deve documentar toda a construção do programa em um arquivo de texto (MS Word ou OpenOffice Writer) contendo imagens e instruções passo-a-passo da construção do programa (obrigatório!!!).
 
-### Código-fonte do programa
+## Código-fonte do programa
 
 O código-fonte do programa está disponível no seginte link:  
 => ![Código-fonte](src/alunos/).
 
 
-### Captura de Tela da Atividade Final
+## Captura de Tela da Atividade Final
 
 ![Captura de Tela](images/screenshot.jpg)  
 
