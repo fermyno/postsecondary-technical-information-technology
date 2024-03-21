@@ -9,7 +9,6 @@ Atividades desenvolvidas no âmbito da disciplina **Processamento de Dados V - D
 
 # Atividade Final:
 
-## Enunciado:
 O aluno deve escrever um programa que apresente as seguintes funcionalidades:
 1. O programa deve ser escrito totalmente em Pascal e utilizar uma das seguintes IDEs: Delphi, Kylix ou Lazarus;
 2. O programa deve apresentar um código estruturado;
