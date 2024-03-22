@@ -23,7 +23,7 @@ Para a etapa de codificação do programa foi utilizada a IDE Lazarus, devido ao
 
 # Captura de Tela
 
-![Captura de Tela](images/screenshot.jpg)  
+![Captura de Tela](images/screenshot.jpg)
 <br />
 
 # Código-fonte
