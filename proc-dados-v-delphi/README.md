@@ -7,6 +7,7 @@
 
 Atividades desenvolvidas no âmbito da disciplina **Processamento de Dados V - Delphi** do curso Técnico em Informática do Instituto São Francisco - Santa Família.
 
+
 # Atividade Final
 
 O aluno deve escrever um programa que apresente as seguintes funcionalidades:
@@ -19,17 +20,21 @@ O aluno deve escrever um programa que apresente as seguintes funcionalidades:
 Diante dos requisitos levantados, optou-se por uma solução com foco na usuabilidade, composta por uma interface simples e intuitiva que permite rapidamente a consulta dos alunos de todas as turmas. É possível, ainda, editar as notas dos alunos de forma rápida e simplificada.  
 Para a etapa de codificação do programa foi utilizada a IDE Lazarus, devido ao seu código de uso aberto e possibilidade de compilação para as plataformas Windows e Linux. 
 
-## Captura de Tela da Atividade Final
+
+# Captura de Tela
 
 ![Captura de Tela](images/screenshot.jpg)  
 
-## Código-fonte do programa
+
+# Código-fonte
 
 O código-fonte do programa está disponível no seginte link:  
 => ![Código-fonte](src/alunos/).
 
 
-## Passo-a-passo para a construção do programa
+# Passo-a-passo para a construção do programa
 
 Todos os passos necessários para a construção do programa estão relatados detalhadamente no seguinte documento:  
 => ![Passo-a-passo para a construção do programa](docs/realizacao-trabalho-final--delphi.pdf).
+
+
