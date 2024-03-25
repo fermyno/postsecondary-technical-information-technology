@@ -30,6 +30,19 @@ Para a etapa de codificação do programa foi utilizada a IDE Lazarus, devido ao
 
 O código-fonte do programa está disponível no seginte link:  
 => ![Código-fonte](src/alunos/).
+* **![Código-fonte](src/alunos/)**
+alunos.ico
+alunos.lpi
+alunos.lpr
+alunos.lps
+alunos.res
+unit1.lfm
+unit1.pas
+unit2.lfm
+unit2.pas
+alunosT1.dbf
+alunosT2.dbf
+alunosT3.dbf 
 <br />
 
 # Passo-a-passo para a construção do programa
