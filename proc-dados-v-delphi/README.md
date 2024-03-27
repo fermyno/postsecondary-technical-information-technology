@@ -31,7 +31,7 @@ Para a etapa de codificação do programa foi utilizada a IDE Lazarus, devido ao
 Relação de arquivos do programa:  
 * **![alunos.lpi](src/alunos/alunos.lpi)**
 * **![alunos.lpr](src/alunos/alunos.lpr)**
-* **![Código-fonte](src/alunos/alunos.lps)**
+* **![alunos.lps](src/alunos/alunos.lps)**
 * **![Código-fonte](src/alunos/alunos.res)**
 * **![Código-fonte](src/alunos/unit1.lfm)**
 * **![Código-fonte](src/alunos/unit1.pas)**
