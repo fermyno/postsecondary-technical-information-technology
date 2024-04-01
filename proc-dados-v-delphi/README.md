@@ -35,7 +35,7 @@ Relação de arquivos do programa:
 * **![alunos.res](src/alunos/alunos.res)**
 * **![unit1.lfm](src/alunos/unit1.lfm)**
 * **![unit1.pas](src/alunos/unit1.pas)**
-* **![Código-fonte](src/alunos/unit2.lfm)**
+* **![unit2.lfm](src/alunos/unit2.lfm)**
 * **![Código-fonte](src/alunos/unit2.pas)**
 * **![Código-fonte](src/alunos/alunosT1.dbf)**
 * **![Código-fonte](src/alunos/alunosT2.dbf)**
