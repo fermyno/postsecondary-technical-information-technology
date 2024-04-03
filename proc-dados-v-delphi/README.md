@@ -39,7 +39,7 @@ Relação de arquivos do programa:
 * **![unit2.pas](src/alunos/unit2.pas)**
 * **![alunosT1.dbf](src/alunos/alunosT1.dbf)**
 * **![alunosT2.dbf](src/alunos/alunosT2.dbf)**
-* **![Código-fonte](src/alunos/alunosT3.dbf)**
+* **![alunosT3.dbf](src/alunos/alunosT3.dbf)**
 <br />
 
 # Passo-a-passo para a construção do programa
