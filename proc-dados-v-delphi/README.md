@@ -43,7 +43,7 @@ Relação de arquivos do programa:
 <br />
 
 Todos os arquivos zipados:  
-* **📦 ![alunos.zip](src/alunos/alunosT3.dbf)**
+* **📦 ![alunos.zip](src/alunos.zip)**
 <br />
 
 # Passo-a-passo para a construção do programa
