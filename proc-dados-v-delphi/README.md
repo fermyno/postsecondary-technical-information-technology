@@ -41,6 +41,8 @@ Relação de arquivos do programa:
 * **📅 ![alunosT2.dbf](src/alunos/alunosT2.dbf)**
 * **📅 ![alunosT3.dbf](src/alunos/alunosT3.dbf)**
 <br />
+* **📅 ![Todos os arquivos zipados](src/alunos/alunosT3.dbf)**
+<br />
 
 # Passo-a-passo para a construção do programa
 
