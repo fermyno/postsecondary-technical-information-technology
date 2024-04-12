@@ -40,7 +40,6 @@ Relação de arquivos do programa:
 * **📅 ![alunosT1.dbf](src/alunos/alunosT1.dbf)**
 * **📅 ![alunosT2.dbf](src/alunos/alunosT2.dbf)**
 * **📅 ![alunosT3.dbf](src/alunos/alunosT3.dbf)**
-<br />
 * **📅 ![Todos os arquivos zipados](src/alunos/alunosT3.dbf)**
 <br />
 
