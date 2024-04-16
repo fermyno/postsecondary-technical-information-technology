@@ -51,7 +51,6 @@ Todos os arquivos zipados:
 Todos os passos necessários para a construção do programa estão relatados detalhadamente no seguinte documento:  
 * **📘 ![Passo-a-passo para a construção do programa](docs/realizacao-trabalho-final--delphi.pdf).**
 <br />
-<br />
 
 ## ETAPAS
 <br />
