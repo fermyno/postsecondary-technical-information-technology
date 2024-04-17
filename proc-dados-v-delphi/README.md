@@ -52,5 +52,10 @@ Todos os passos necessários para a construção do programa estão relatados de
 * **📘 ![Passo-a-passo para a construção do programa](docs/realizacao-trabalho-final--delphi.pdf).**
 
 ## ETAPAS
+
+### ETAPA DE CRIAÇÃO DO PROJETO
+asdfg
+
+
 <br />
 
