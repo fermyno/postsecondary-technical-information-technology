@@ -53,7 +53,10 @@ Todos os passos necessários para a construção do programa estão relatados de
 <br />
 
 ### ETAPA DE CRIAÇÃO DO PROJETO
-asdfg
+
+#### ETAPA 1
+No Lazarus, clicar em “Project” + “New Project” + “Application”
+
 
 
 <br />
