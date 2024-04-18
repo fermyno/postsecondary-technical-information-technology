@@ -53,6 +53,7 @@ Todos os passos necessários para a construção do programa estão relatados de
 <br />
 
 ### ETAPA DE CRIAÇÃO DO PROJETO
+<br />
 
 #### ETAPA 1
 No Lazarus, clicar em <code>Project</code> + <code>New Project</code> + <code>Application</code>
