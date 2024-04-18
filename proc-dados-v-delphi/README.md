@@ -56,9 +56,10 @@ Todos os passos necessários para a construção do programa estão relatados de
 
 #### ETAPA 1
 No Lazarus, clicar em <code>Project</code> + <code>New Project</code> + <code>Application</code>
+<br />
 
 #### ETAPA 2
-Clicar em “File” + “Save All” + selecionar pasta “C:\alunos\”, salvar projeto como “alunos.lpi”, e salvar arquivo “.pas” como “unit1.pas”
+Clicar em <code>File</code> + <code>Save All</code> + selecionar pasta <code>C:\alunos\</code>, salvar projeto como <code>alunos.lpi</code>, e salvar arquivo <code>.pas</code> como <code>unit1.pas</code>.
 
 <br />
 
