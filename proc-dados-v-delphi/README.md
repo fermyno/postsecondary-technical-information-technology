@@ -67,6 +67,10 @@ Clicar em <code>File</code> + <code>Save All</code> + selecionar pasta C:\alunos
 <br />
 
 ### ETAPA DE CRIAÇÃO DO LAYOUT DO PROGRAMA
+<br />
+
+#### FORM1
+<br />
 
 #### ETAPA 3
 No Lazarus, clicar em <code>Project</code> + <code>New Project</code> + <code>Application</code>
