@@ -82,37 +82,37 @@ Clicar em <code>File</code> + <code>Save All</code> + selecionar pasta C:\alunos
 <br />
 <br />
 
-ETAPA 5
+#### ETAPA 5
 Na aba “Data Controls” inserir os componentes “TDBNavigator (DBNavigator1)” e “TDBGrid (DBGrid1)”
 
-ETAPA 6
+#### ETAPA 6
 Na aba “Standard” adicionar um “TButton (Button1)”. Alterar a propriedade “Caption” do “Button1” para “Sair”
 
-ETAPA 7
+#### ETAPA 7
 Na aba “Standard” adicionar um “TLabel (Label1)”. Alterar as propriedades “Font” para “Negrito” “14”.
 
-ETAPA 8
+#### ETAPA 8
 Na aba “Standard” adicionar um “TmainMenu (MainMenu1)”.
 
-ETAPA 9
+#### ETAPA 9
 Clicar duas vezes no “MainMenu1” para iniciar edição do menu. Clicar em “Add menu item” e na propriedade “Caption” digitar “&Arquivo”.
 
-ETAPA 10
+#### ETAPA 10
 Clicar em “Add submenu” e na propriedade “Caption” do “MenuItem2” digitar “&Sair”.
 
-ETAPA 11
+#### ETAPA 11
 Clicar em “Arquivo” para habilitar a adição de mais itens de menu. Clicar em “Add menu item”. Em “MenuItem3” alterar a propriedade “Caption” para “&Turmas”.
 
-ETAPA 12
+#### ETAPA 12
 Clicar em “Add submenu” e na propriedade “Caption” alterar para “Turma &1”. Realizar o mesmo procedimento para as turmas 2 e 3.
 
-ETAPA 13
+#### ETAPA 13
 Clicar em “Turmas” para habilitar a adição de mais itens de menu. Clicar em “Add menu item”. Em “MenuItem7” alterar a propriedade “Caption” para “&Ajuda”.
 
-ETAPA 14
+#### ETAPA 14
 Clicar em “Add submenu” e na propriedade “Caption” do “MenuItem8” alterar para “So&bre”.
 
-ETAPA 15
+#### ETAPA 15
 Fechar a edição do menu
 
 
