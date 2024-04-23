@@ -88,7 +88,7 @@ Na aba <code>Data Controls</code> inserir os componentes <code>TDBNavigator (DBN
 <br />
 
 #### ETAPA 6
-Na aba “Standard” adicionar um “TButton (Button1)”. Alterar a propriedade “Caption” do “Button1” para “Sair”
+Na aba <code>Standard</code> adicionar um <code>TButton (Button1)</code>. Alterar a propriedade <code>Caption</code> do <code>Button1</code> para <code>Sair</code>
 <br />
 <br />
 
