@@ -83,7 +83,7 @@ Clicar em <code>File</code> + <code>Save All</code> + selecionar pasta C:\alunos
 <br />
 
 #### ETAPA 5
-Na aba “Data Controls” inserir os componentes “TDBNavigator (DBNavigator1)” e “TDBGrid (DBGrid1)”
+Na aba <code>Data Controls</code> inserir os componentes <code>TDBNavigator (DBNavigator1)</code> e <code>TDBGrid (DBGrid1)</code>”
 <br />
 <br />
 
