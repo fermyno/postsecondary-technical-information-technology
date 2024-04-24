@@ -93,7 +93,7 @@ Na aba <code>Standard</code> adicionar um <code>TButton (Button1)</code>. Altera
 <br />
 
 #### ETAPA 7
-Na aba “Standard” adicionar um “TLabel (Label1)”. Alterar as propriedades “Font” para “Negrito” “14”.
+Na aba <code>Standard</code> adicionar um <code>TLabel (Label1)</code>. Alterar as propriedades <code>Font</code> para <code>Negrito 14</code>.
 <br />
 <br />
 
