@@ -98,7 +98,7 @@ Na aba <code>Standard</code> adicionar um <code>TLabel (Label1)</code>. Alterar 
 <br />
 
 #### ETAPA 8
-Na aba “Standard” adicionar um “TmainMenu (MainMenu1)”.
+Na aba <code>Standard</code> adicionar um <code>TmainMenu (MainMenu1)</code>.
 <br />
 <br />
 
