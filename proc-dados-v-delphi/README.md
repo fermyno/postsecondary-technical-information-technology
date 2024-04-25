@@ -103,7 +103,7 @@ Na aba <code>Standard</code> adicionar um <code>TmainMenu (MainMenu1)</code>.
 <br />
 
 #### ETAPA 9
-Clicar duas vezes no “MainMenu1” para iniciar edição do menu. Clicar em “Add menu item” e na propriedade “Caption” digitar “&Arquivo”.
+Clicar duas vezes no <code>MainMenu1</code> para iniciar edição do menu. Clicar em <code>Add menu item</code> e na propriedade <code>Caption</code> digitar <code>&Arquivo</code>.
 <br />
 <br />
 
