@@ -108,7 +108,7 @@ Clicar duas vezes no <code>MainMenu1</code> para iniciar edição do menu. Clica
 <br />
 
 #### ETAPA 10
-Clicar em “Add submenu” e na propriedade “Caption” do “MenuItem2” digitar “&Sair”.
+Clicar em <code>Add submenu</code> e na propriedade <code>Caption</code> do <code>MenuItem2</code> digitar <code>&Sair</code>.
 <br />
 <br />
 
