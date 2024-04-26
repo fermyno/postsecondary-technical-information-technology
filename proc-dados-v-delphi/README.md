@@ -113,7 +113,7 @@ Clicar em <code>Add submenu</code> e na propriedade <code>Caption</code> do <cod
 <br />
 
 #### ETAPA 11
-Clicar em “Arquivo” para habilitar a adição de mais itens de menu. Clicar em “Add menu item”. Em “MenuItem3” alterar a propriedade “Caption” para “&Turmas”.
+Clicar em <code>Arquivo</code> para habilitar a adição de mais itens de menu. Clicar em <code>Add menu item</code>. Em <code>MenuItem3</code> alterar a propriedade <code>Caption</code> para <code>&Turmas</code>.
 <br />
 <br />
 
