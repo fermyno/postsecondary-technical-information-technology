@@ -128,7 +128,7 @@ Clicar em <code>Turmas</code> para habilitar a adição de mais itens de menu. C
 <br />
 
 #### ETAPA 14
-Clicar em <code>Add submenu</code> e na propriedade “Caption” do “MenuItem8” alterar para “So&bre”.
+Clicar em <code>Add submenu</code> e na propriedade <code>Caption</code> do <code>MenuItem8</code> alterar para <code>So&bre</code>.
 <br />
 <br />
 
