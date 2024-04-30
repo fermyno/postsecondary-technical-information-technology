@@ -133,7 +133,7 @@ Clicar em <code>Add submenu</code> e na propriedade <code>Caption</code> do <cod
 <br />
 
 #### ETAPA 15
-Fechar a edição do menu
+Fechar a edição do menu.
 <br />
 <br />
 
