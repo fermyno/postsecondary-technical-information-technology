@@ -143,13 +143,21 @@ Fechar a edição do menu.
 #### ETAPA 16
 Clicar em “File” + “New Form”.
 Clique em “File” + “Salve All” e salve o novo formulario como “unit2.pas”
+<br />
+<br />
 
 #### ETAPA 17
 Um novo formulário será criado. Na propriedade “Caption” digite “Sobre o Programa”.
+<br />
+<br />
 
 #### ETAPA 18
 Na propriedade “BorderStyle” do novo formulário digite “bsDialog”.
+<br />
+<br />
 
 #### ETAPA 19
 Adicione os componentes “TLabel (Form2.Label1)” e “Tbutton (Form2.Button1)”. No componente “TLabel (Form2.Label1)” configure a propriedade “Font” para “Normal” e “Tamanho 11”. No componente “Tbutton (Form2.Button1)” configure a propriedade “Caption” para “OK”.
+<br />
+<br />
 
