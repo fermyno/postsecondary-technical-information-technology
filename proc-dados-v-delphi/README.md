@@ -139,6 +139,7 @@ Fechar a edição do menu.
 
 
 #### -- FORM 2 --
+<br />
 
 #### ETAPA 16
 Clicar em “File” + “New Form”.
