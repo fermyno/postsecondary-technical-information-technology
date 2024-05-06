@@ -159,7 +159,9 @@ Na propriedade “BorderStyle” do novo formulário digite “bsDialog”.
 <br />
 
 #### ETAPA 19
-Adicione os componentes “TLabel (Form2.Label1)” e “Tbutton (Form2.Button1)”. No componente “TLabel (Form2.Label1)” configure a propriedade “Font” para “Normal” e “Tamanho 11”. No componente “Tbutton (Form2.Button1)” configure a propriedade “Caption” para “OK”.
+Adicione os componentes “TLabel (Form2.Label1)” e “Tbutton (Form2.Button1)”. <br />
+No componente “TLabel (Form2.Label1)” configure a propriedade “Font” para “Normal” e “Tamanho 11”. <br />
+No componente “Tbutton (Form2.Button1)” configure a propriedade “Caption” para “OK”.
 <br />
 <br />
 
