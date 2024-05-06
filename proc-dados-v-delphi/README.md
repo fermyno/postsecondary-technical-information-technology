@@ -144,7 +144,7 @@ Fechar a edição do menu.
 
 #### ETAPA 16
 Clicar em <code>File</code> + <code>New Form</code>.
-Clique em “File” + “Salve All” e salve o novo formulario como “unit2.pas”
+Clique em <code>File</code> + <code>Salve All</code> e salve o novo formulario como <code>unit2.pas</code>
 <br />
 <br />
 
