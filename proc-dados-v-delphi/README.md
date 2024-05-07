@@ -149,7 +149,7 @@ Clique em <code>File</code> + <code>Salve All</code> e salve o novo formulario c
 <br />
 
 #### ETAPA 17
-Um novo formulário será criado. Na propriedade “Caption” digite “Sobre o Programa”.
+Um novo formulário será criado. Na propriedade <code>Caption</code> digite <code>Sobre o Programa</code>.
 <br />
 <br />
 
