@@ -154,7 +154,7 @@ Um novo formulário será criado. Na propriedade <code>Caption</code> digite <co
 <br />
 
 #### ETAPA 18
-Na propriedade “BorderStyle” do novo formulário digite <code>bsDialog</code>.
+Na propriedade <code>BorderStyle</code> do novo formulário digite <code>bsDialog</code>.
 <br />
 <br />
 
