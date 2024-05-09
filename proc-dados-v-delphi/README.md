@@ -159,7 +159,7 @@ Na propriedade <code>BorderStyle</code> do novo formulário digite <code>bsDialo
 <br />
 
 #### ETAPA 19
-Adicione os componentes “TLabel (Form2.Label1)” e <code>Tbutton (Form2.Button1)</code>. <br />
+Adicione os componentes <code>TLabel (Form2.Label1)</code> e <code>Tbutton (Form2.Button1)</code>. <br />
 No componente “TLabel (Form2.Label1)” configure a propriedade “Font” para “Normal” e “Tamanho 11”. <br />
 No componente “Tbutton (Form2.Button1)” configure a propriedade “Caption” para “OK”.
 <br />
