@@ -165,3 +165,7 @@ No componente <code>Tbutton (Form2.Button1)</code> configure a propriedade <code
 <br />
 <br />
 
+<br />
+
+### ETAPA DE CODIFICAÇÃO DO PROGRAMA
+<br />
