@@ -179,8 +179,8 @@ Na “Unit1” localize o código “{$mode objfpc}{$H+}” e adicione “unit2�
 <br />
 <br />
 
-#### ETAPA ?
-???
+#### ETAPA 21
+Na “Unit1” localize a procedure “TForm1.FormCreate(Sender: TObject)”
 <br />
 <br />
 
