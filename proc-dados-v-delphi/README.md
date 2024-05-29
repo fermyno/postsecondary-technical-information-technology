@@ -186,6 +186,7 @@ Na “Unit1” localize a procedure “TForm1.FormCreate(Sender: TObject)”
 
 #### ETAPA 22
 Clique duas vezes em um espaço vazio do Form1, e na procedure “TForm1.FormCreate(Sender: TObject)” digite o seguinte código:
+<code>
 { codigo carregado na criacao do formulario princial }
 Form1.Label1.Caption := 'Controle de Alunos';
 { configuracao das base de dados }
@@ -199,6 +200,7 @@ Form1.Dbf1.FilePathFull := 'C:\alunos\';
 Form1.Dbf1.StoreDefs := True;
 Form1.Dbf1.Active := True;
 Form1.DataSource1.DataSet := Form1.Dbf1
+</code>
 <br />
 <br />
 
