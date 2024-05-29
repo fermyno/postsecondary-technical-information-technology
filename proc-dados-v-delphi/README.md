@@ -185,7 +185,20 @@ Na “Unit1” localize a procedure “TForm1.FormCreate(Sender: TObject)”
 <br />
 
 #### ETAPA 22
-???
+Clique duas vezes em um espaço vazio do Form1, e na procedure “TForm1.FormCreate(Sender: TObject)” digite o seguinte código:
+{ codigo carregado na criacao do formulario princial }
+Form1.Label1.Caption := 'Controle de Alunos';
+{ configuracao das base de dados }
+Form1.DBGrid1.DataSource := Form1.DataSource1;
+Form1.DBNavigator1.DataSource := Form1.DataSource1;
+{ define Turma 1 como primeira turma a ser visualizada }
+Form1.Label1.Caption := 'Controle de Alunos - Turma 1';
+Form1.Dbf1.TableName := 'C:\alunos\alunosT1.dbf';
+Form1.Dbf1.FilePath := 'C:\alunos\';
+Form1.Dbf1.FilePathFull := 'C:\alunos\';
+Form1.Dbf1.StoreDefs := True;
+Form1.Dbf1.Active := True;
+Form1.DataSource1.DataSet := Form1.Dbf1
 <br />
 <br />
 
