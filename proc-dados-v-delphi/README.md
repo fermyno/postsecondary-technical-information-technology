@@ -205,9 +205,11 @@ Form1.DataSource1.DataSet := Form1.Dbf1
 <br />
 
 #### ETAPA 23
-Clicar duas vezes no “Form1.Button1” (Botão de sair) e digitar o seguinte código na procedure “TForm1.Button1Click(Sender: TObject)”:
+Clicar duas vezes no “Form1.Button1” (Botão de sair) e digitar o seguinte código na procedure “TForm1.Button1Click(Sender: TObject)”: <br />
+<code>
 { sair do programa }
 Close;
+</code>
 <br />
 <br />
 
