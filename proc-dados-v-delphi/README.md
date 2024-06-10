@@ -215,8 +215,10 @@ Close;
 
 #### ETAPA 24
 Clicar no menu, na opção “Arquivo” + “Sair” e e digitar o mesmo código na procedure “TForm1.MenuItem2Click(Sender: TObject)”:
+<code>
 { sair do programa }
 Close;
+</code>
 <br />
 <br />
 
