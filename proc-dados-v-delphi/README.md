@@ -224,8 +224,10 @@ Close;
 
 #### ETAPA 25
 Clicar no menu, na opção “Ajuda” + “Sobre” e digitar o seguinte código na procedure “TForm1.MenuItem8Click(Sender: TObject)”:
+<code>
 { abrir formulario Ajuda > Sobre }
 Form2.Show;
+</code>
 <br />
 <br />
 
