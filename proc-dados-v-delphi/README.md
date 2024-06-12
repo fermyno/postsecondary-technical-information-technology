@@ -233,12 +233,14 @@ Form2.Show;
 
 #### ETAPA 26
 Clicar no menu, na opção “Turmas” + “Turma 1” e digitar o seguinte código na procedure “TForm1.MenuItem4Click(Sender: TObject)”:
+<code>
 { atualiza o nome da turma no label }
 Form1.Label1.Caption := 'Controle de Alunos - Turma 1';
 { carrega os dados da tabela c:\alunos\alunosT1.dbf }
 Form1.Dbf1.Active := False;
 Form1.Dbf1.TableName := 'C:\alunos\alunosT1.dbf';
 Form1.Dbf1.Active := True;
+</code>
 <br />
 <br />
 
