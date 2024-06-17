@@ -271,7 +271,7 @@ Form1.Dbf1.Active := True;
 <br />
 
 #### ETAPA 29
-???
+Ao final da edição das opções de turmas no menu, o código deve ficar como apresentado abaixo:
 <br />
 <br />
 
