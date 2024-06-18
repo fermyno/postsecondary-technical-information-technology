@@ -279,7 +279,9 @@ Ao final da edição das opções de turmas no menu, o código deve ficar como a
 <br />
 
 #### ETAPA 30
-???
+Na “Unit2”, clique duas vezes no botão de sair e digite o código:
+{ fecha o formulario Ajuda > Sobre }
+Form2.Close;
 <br />
 <br />
 
