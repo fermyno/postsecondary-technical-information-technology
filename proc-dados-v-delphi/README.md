@@ -288,6 +288,8 @@ Form2.Close;
 <br />
 
 #### ETAPA 31
-???
+Clique duas vezes em um espaço vazio do Form2, e na procedure “TForm2.FormCreate(Sender: TObject)” digite o seguinte código:
+{ define o texto do formulario de Ajuda > Sobre }
+Form2.Label1.Caption := 'Autor: Fermyno Gutierrez'#10'Controle de Alunos';
 <br />
 <br />
