@@ -57,6 +57,7 @@ Todos os passos necessários para a construção do programa estão relatados de
 
 #### ETAPA 1
 No Lazarus, clicar em <code>Project</code> + <code>New Project</code> + <code>Application</code>
+<br />
 ![Captura de Tela](images/etapa-01.jpg)
 <br />
 <br />
