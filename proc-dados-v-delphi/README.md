@@ -64,6 +64,7 @@ No Lazarus, clicar em <code>Project</code> + <code>New Project</code> + <code>Ap
 
 #### ETAPA 2
 Clicar em <code>File</code> + <code>Save All</code> + selecionar pasta C:\alunos\, salvar projeto como <code>alunos.lpi</code>, e salvar arquivo <code>.pas</code> como <code>unit1.pas</code>.
+![Captura de Tela](images/etapa-02.jpg)
 <br />
 
 <br />
