@@ -88,6 +88,7 @@ Clicar em <code>File</code> + <code>Save All</code> + selecionar pasta C:\alunos
 
 #### ETAPA 5
 Na aba <code>Data Controls</code> inserir os componentes <code>TDBNavigator (DBNavigator1)</code> e <code>TDBGrid (DBGrid1)</code>”
+![Captura de Tela](images/etapa-05.jpg)
 <br />
 <br />
 
