@@ -94,6 +94,7 @@ Na aba <code>Data Controls</code> inserir os componentes <code>TDBNavigator (DBN
 
 #### ETAPA 6
 Na aba <code>Standard</code> adicionar um <code>TButton (Button1)</code>. Alterar a propriedade <code>Caption</code> do <code>Button1</code> para <code>Sair</code>
+![Captura de Tela](images/etapa-06.jpg)
 <br />
 <br />
 
