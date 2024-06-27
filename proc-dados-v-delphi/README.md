@@ -100,6 +100,7 @@ Na aba <code>Standard</code> adicionar um <code>TButton (Button1)</code>. Altera
 
 #### ETAPA 7
 Na aba <code>Standard</code> adicionar um <code>TLabel (Label1)</code>. Alterar as propriedades <code>Font</code> para <code>Negrito 14</code>.
+![Captura de Tela](images/etapa-07.jpg)
 <br />
 <br />
 
