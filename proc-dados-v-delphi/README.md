@@ -106,6 +106,7 @@ Na aba <code>Standard</code> adicionar um <code>TLabel (Label1)</code>. Alterar 
 
 #### ETAPA 8
 Na aba <code>Standard</code> adicionar um <code>TmainMenu (MainMenu1)</code>.
+![Captura de Tela](images/etapa-08.jpg)
 <br />
 <br />
 
