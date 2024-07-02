@@ -118,6 +118,7 @@ Clicar duas vezes no <code>MainMenu1</code> para iniciar edição do menu. Clica
 
 #### ETAPA 10
 Clicar em <code>Add submenu</code> e na propriedade <code>Caption</code> do <code>MenuItem2</code> digitar <code>&Sair</code>.
+![Captura de Tela](images/etapa-10.jpg)
 <br />
 <br />
 
