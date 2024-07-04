@@ -130,6 +130,7 @@ Clicar em <code>Arquivo</code> para habilitar a adição de mais itens de menu. 
 
 #### ETAPA 12
 Clicar em <code>Add submenu</code> e na propriedade <code>Caption</code> alterar para <code>Turma &1</code>. Realizar o mesmo procedimento para as turmas 2 e 3.
+![Captura de Tela](images/etapa-12.jpg)
 <br />
 <br />
 
