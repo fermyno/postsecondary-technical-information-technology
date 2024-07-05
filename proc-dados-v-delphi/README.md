@@ -136,6 +136,7 @@ Clicar em <code>Add submenu</code> e na propriedade <code>Caption</code> alterar
 
 #### ETAPA 13
 Clicar em <code>Turmas</code> para habilitar a adição de mais itens de menu. Clicar em <code>Add menu item</code>. Em <code>MenuItem7</code> alterar a propriedade <code>Caption</code> para <code>&Ajuda</code>.
+![Captura de Tela](images/etapa-13.jpg)
 <br />
 <br />
 
