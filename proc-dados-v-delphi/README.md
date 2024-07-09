@@ -148,6 +148,7 @@ Clicar em <code>Add submenu</code> e na propriedade <code>Caption</code> do <cod
 
 #### ETAPA 15
 Fechar a edição do menu.
+![Captura de Tela](images/etapa-15.jpg)
 <br />
 <br />
 
