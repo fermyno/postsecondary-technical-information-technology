@@ -160,6 +160,7 @@ Fechar a edição do menu.
 #### ETAPA 16
 Clicar em <code>File</code> + <code>New Form</code>.
 Clique em <code>File</code> + <code>Salve All</code> e salve o novo formulario como <code>unit2.pas</code>
+![Captura de Tela](images/etapa-16.jpg)
 <br />
 <br />
 
