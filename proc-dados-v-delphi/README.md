@@ -166,6 +166,7 @@ Clique em <code>File</code> + <code>Salve All</code> e salve o novo formulario c
 
 #### ETAPA 17
 Um novo formulário será criado. Na propriedade <code>Caption</code> digite <code>Sobre o Programa</code>.
+![Captura de Tela](images/etapa-17.jpg)
 <br />
 <br />
 
