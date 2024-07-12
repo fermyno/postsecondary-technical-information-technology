@@ -172,6 +172,7 @@ Um novo formulário será criado. Na propriedade <code>Caption</code> digite <co
 
 #### ETAPA 18
 Na propriedade <code>BorderStyle</code> do novo formulário digite <code>bsDialog</code>.
+![Captura de Tela](images/etapa-18.jpg)
 <br />
 <br />
 
