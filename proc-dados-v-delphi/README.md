@@ -195,6 +195,7 @@ No componente <code>Tbutton (Form2.Button1)</code> configure a propriedade <code
 
 #### ETAPA 20
 Na “Unit1” localize o código “{$mode objfpc}{$H+}” e adicione “unit2” antes do ponto-e-vírgula.
+![Captura de Tela](images/etapa-20.jpg)
 <br />
 <br />
 
