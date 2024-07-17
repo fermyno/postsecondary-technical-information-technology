@@ -304,6 +304,7 @@ Na “Unit2”, clique duas vezes no botão de sair e digite o código:
 { fecha o formulario Ajuda > Sobre }
 Form2.Close;
 </code>
+![Captura de Tela](images/etapa-30.jpg)
 <br />
 <br />
 
