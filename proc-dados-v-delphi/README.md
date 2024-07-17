@@ -304,7 +304,6 @@ Na “Unit2”, clique duas vezes no botão de sair e digite o código:
 { fecha o formulario Ajuda > Sobre }
 Form2.Close;
 </code>
-![Captura de Tela](images/etapa-30.jpg)
 <br />
 <br />
 
@@ -314,5 +313,6 @@ Clique duas vezes em um espaço vazio do Form2, e na procedure “TForm2.FormCre
 { define o texto do formulario de Ajuda > Sobre }
 Form2.Label1.Caption := 'Autor: Fermyno Gutierrez'#10'Controle de Alunos';
 </code>
+<br />
 <br />
 <br />
