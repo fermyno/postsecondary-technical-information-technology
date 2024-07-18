@@ -46,10 +46,6 @@ Todos os arquivos zipados:
 * **📦 ![alunos.zip](src/alunos.zip)**
 <br />
 
-# Passo-a-passo para a construção do programa
-
-Todos os passos necessários para a construção do programa estão relatados detalhadamente no seguinte documento:  
-* **📘 ![Passo-a-passo para a construção do programa](docs/realizacao-trabalho-final--delphi.pdf).**
 <br />
 
 ### ETAPA DE CRIAÇÃO DO PROJETO
